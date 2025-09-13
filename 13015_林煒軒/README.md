@@ -8,7 +8,7 @@ Hi! I'm Chuck!
 - [My colab](https://drive.google.com/drive/folders/1_maaXJom4Pm3zMW5ftkV9EGyPRcFJToY?usp=drive_link)
 
 # 💯 In-Class Exercise
-- [0913 in-class exercise (quantiles)](https://colab.research.google.com/drive/11bHlxmhZ0DXfqTn8fhpE8vlVmp03GyjU?usp=drive_link)
+- [0913 in-class exercise](https://colab.research.google.com/drive/11bHlxmhZ0DXfqTn8fhpE8vlVmp03GyjU?usp=drive_link) (quantiles)
 
 # 🛠️ Tools
 - [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
