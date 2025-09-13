@@ -1,4 +1,3 @@
-# 🌍 Hello World
 # 👔 About Me
 Hi! I'm Chuck!
 
@@ -16,6 +15,7 @@ Hi! I'm Chuck!
 # 📦 Python Packages
 
 ## 📊 Stats
+- [numpy](https://numpy.org/doc/stable/)
 - [statsmodels](https://www.statsmodels.org/stable/index.html#)
 
 ## 📈 Visualization
