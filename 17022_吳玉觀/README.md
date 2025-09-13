@@ -1,3 +1,3 @@
 # Isabel Wu 
 
-*Product Management Expert*
+**Product Management Expert**
