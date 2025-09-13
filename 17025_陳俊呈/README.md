@@ -14,3 +14,5 @@ Introduction
 
 ||Measure|Graph|
 |---|---|---|
+|客觀|V||
+|多資訊||V|
