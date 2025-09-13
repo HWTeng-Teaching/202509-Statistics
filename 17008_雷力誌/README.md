@@ -4,4 +4,6 @@ Hi
 
 暫離職場，探尋自我
 
+登高行遠
+
 [linkedin](https://www.linkedin.com/in/%E5%8A%9B%E8%AA%8C-%E9%9B%B7-973157365/)
