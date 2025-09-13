@@ -5,6 +5,8 @@ Please fill in your gitHUB info in the [Google Sheet](https://docs.google.com/sp
 
 [IC0913 DDL 16:10](https://forms.gle/DsTkE7f9zfFEgmzN7)
 
+$\sum_{i=1}^n (x_i-\bar{x})^2 = \sum_{i=1}^n x_i^2 - (\sum x_i)^2/n$
+
 ## Name list
 
 | 序號 | 系所       | 學號       | 姓名   |
