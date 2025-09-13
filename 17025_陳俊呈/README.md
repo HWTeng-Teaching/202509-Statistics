@@ -9,4 +9,4 @@ You can find my pages
 |Constellations|Aquarius|
 |Country|Taitung|
 |Interest in sport|Swimming, Hiking|
-|Interest in Finance|Financial analysis, M&A|
+|Interest in Finance|Financial analysis for business strategy, M&A|
