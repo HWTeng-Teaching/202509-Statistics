@@ -1,1 +1,6 @@
+mkdir -p 17022_吳玉觀/HW0913
+mv HW0913 17022_吳玉觀/HW0913/README.md
+git add .
+git commit -m "調整 HW0913 資料夾結構"
+git push
 
