@@ -1,6 +1,17 @@
-mkdir -p 17022_吳玉觀/HW0913
-mv HW0913 17022_吳玉觀/HW0913/README.md
-git add .
-git commit -m "調整 HW0913 資料夾結構"
-git push
+# 進到專案目錄
+cd 202509-Statistics
 
+# 建立新資料夾
+mkdir -p "17022_吳玉觀/HW0913"
+
+# 把原本的 HW0913 檔案搬到資料夾裡，並改名為 README.md
+mv "17022_吳玉觀/HW0913" "17022_吳玉觀/HW0913/README.md"
+
+# 加入版本控制
+git add .
+
+# 提交修改
+git commit -m "將 HW0913 檔案改為資料夾，並新增 README.md"
+
+# 推送到 GitHub
+git push origin main
