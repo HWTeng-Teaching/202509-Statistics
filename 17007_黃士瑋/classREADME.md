@@ -4,6 +4,8 @@
 
 **課堂linnk:https://docs.google.com/spreadsheets/d/1-UFyabcTQTQ9ZaXoXk9rYrOnwDxJEAOYwu1l0E4ezAQ/edit?pli=1&gid=0#gid=0**
 
+今天有說明markdown語法
+
 [課堂筆記如下]
 
 以下是第一章
@@ -35,4 +37,13 @@ histogram在 統計學 裡面，histogram 中文通常翻譯為 「直方圖」�
 parameter參數
 
 numerical measures指的是用數字來描述或總結資料特性的「統計量」
+
+mode 眾數
+
+RANGE=把最大減掉最小就是"範圍"
+
+variance變異數,先把資料的mi找出來，
+
+STANDARD deviation標準差
+
 
