@@ -20,7 +20,7 @@ $\sum_{i=1}^n (x_i-\bar{x})^2 = \sum_{i=1}^n x_i^2 - (\sum x_i)^2/n$
 | 5    | 財金專2    | 513717018  | 黃宗堂 [GitHub](https://github.com/y192837830) |
 | 6    | 財金專2    | 513717019  | 陳姿君 [GitHub](https://github.com/jessica810117-cmd) |
 | 7    | 科管專2    | 513718007  | 張馥丞 [GitHub](https://github.com/JoyChang9168) |
-| 8    | 工管專1    | 514714016  | 劉怡伶 |
+| 8    | 工管專1    | 514714016  | 劉怡伶 [GitHub](https://github.com/lynn10liumg14-max) |
 | 9    | 財金專1    | 514717003  | 陳泓瑋 [GitHub](https://github.com/willy8aass) |
 | 10   | 財金專1    | 514717004  | 吳廷莉 [GitHub](https://github.com/m401880821)|
 | 11   | 財金專1    | 514717007  | 黃士瑋 [GitHub](https://github.com/shih-wei0913)|
