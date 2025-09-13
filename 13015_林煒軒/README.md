@@ -7,6 +7,12 @@ Hi! I'm Chuck!
 - [Google Colab python files folder](https://drive.google.com/drive/folders/15ehJAjL8AZbzjNRJMk5KlFeJlzFMnSEK?usp=sharing)
 - [My colab](https://drive.google.com/drive/folders/1_maaXJom4Pm3zMW5ftkV9EGyPRcFJToY?usp=drive_link)
 
+# 💯 In-Class Exercise
+- [0913 in-class exercise (quantiles)](https://colab.research.google.com/drive/11bHlxmhZ0DXfqTn8fhpE8vlVmp03GyjU?usp=drive_link)
+
+# 🛠️ Tools
+- [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
+
 # 📦 Python Packages
 
 ## 📊 Stats
@@ -17,5 +23,4 @@ Hi! I'm Chuck!
 - [seaborn](https://seaborn.pydata.org/examples/index.html)
 - [plotly](https://plotly.com/examples/)
 
-# 🛠️ Tools
-- [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
+
