@@ -6,8 +6,11 @@ Hi! I'm Chuck!
 - [Google Colab python files folder](https://drive.google.com/drive/folders/15ehJAjL8AZbzjNRJMk5KlFeJlzFMnSEK?usp=sharing)
 - [My colab](https://drive.google.com/drive/folders/1_maaXJom4Pm3zMW5ftkV9EGyPRcFJToY?usp=drive_link)
 
-# 💯 In-Class Exercise
+# ✏️ In-Class Exercise
 - [0913 in-class exercise](https://colab.research.google.com/drive/11bHlxmhZ0DXfqTn8fhpE8vlVmp03GyjU?usp=drive_link) (quantiles)
+
+# 📚 Homework
+- [HW0913](https://github.com/HWTeng-Teaching/202509-Statistics/blob/main/13015_%E6%9E%97%E7%85%92%E8%BB%92/HW0913/README.md)
 
 # 🛠️ Tools
 - [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
