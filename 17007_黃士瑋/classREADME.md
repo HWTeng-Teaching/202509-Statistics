@@ -2,7 +2,7 @@
 
 **簡報在slides**
 
-**課堂linnk:https://docs.google.com/spreadsheets/d/1-UFyabcTQTQ9ZaXoXk9rYrOnwDxJEAOYwu1l0E4ezAQ/edit?pli=1&gid=0#gid=0**
+**課堂docs google linnk:https://docs.google.com/spreadsheets/d/1-UFyabcTQTQ9ZaXoXk9rYrOnwDxJEAOYwu1l0E4ezAQ/edit?pli=1&gid=0#gid=0**
 
 今天有說明markdown語法
 
@@ -46,4 +46,4 @@ variance變異數,先把資料的mi找出來，
 
 STANDARD deviation標準差
 
-
+盒鬚圖（Box Plot, 統計用）用在 統計學與資料分析。主要顯示資料的 分布特性：中位數 (Median)四分位數 (Q1, Q3)四分位距 (IQR)極端值 (Min, Max, Outliers)視覺化重點在 資料的集中與分散程度。
