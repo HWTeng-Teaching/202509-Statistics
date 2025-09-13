@@ -2,6 +2,8 @@
 
 You can find my pages
 
-|Col1|Col2|
+|Item|Personal information|
 |----|----|
-|1|2|
+|Generation|Y|
+|Constellations|Aquarius|
+|Country|Taitung|
