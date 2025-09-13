@@ -1,4 +1,5 @@
 # 🌍 Hello World!
+# 👔 About Me
 
 # 📚 Materials
 - [20250913 STAT README](https://docs.google.com/spreadsheets/d/1-UFyabcTQTQ9ZaXoXk9rYrOnwDxJEAOYwu1l0E4ezAQ/edit?usp=sharing)
