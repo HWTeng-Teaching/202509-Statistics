@@ -5,11 +5,11 @@
 
 $\sum_{i=1}^n x_i $
 
-$\approx \)$
+$\approx \$
 
 $\sqrt{s^2}$
 
 $\bar{x} $
 
-$\frac{A}{B}
+$\frac{A}{B} $
 
