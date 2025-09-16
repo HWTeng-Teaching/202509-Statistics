@@ -15,3 +15,5 @@
 | $\mu $                     | \mu                |
 | $\eta$                     | \eta               |
 |$\bar{x} = \frac{\sum x_i}{n}$|\bar{x} = \frac{\sum x_i}{n} |    
+|$\leq$|\leq|
+|$\geq$|\geq|
