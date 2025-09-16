@@ -1,7 +1,7 @@
-## hello,I'm miyo_chen!  
+## Hello,I'm miyo_chen!  
 
 
-## please Repeat three times!  
+## Please repeat three times!  
 
 
 ## miyo_chen!miyo_chen!miyo_chen!
