@@ -76,7 +76,11 @@ Maximum: 485.00
 
 ### ✅answer c
 
+IQR=Q3-Q1=315.5-143=172.5
 
+Lower Bound:Q1-1.5XIQR=143-258.75=-115.75,have no negtive imformation,so that here has no outliers
+
+Upper Bound:Q3+1.5XIQR=315.5+258.75=574.25,he maximum value (485.00) is less than the upper bound 574.25,also have no ouyliers here.
 
 ### ✅answer d
 
