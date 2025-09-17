@@ -41,7 +41,7 @@ x_bar mean is 59.2,deviation is: 10.37
 
 the range is **31 divided by 10.37 is 2.989** standard deviations
 
-# 🟡Q4：
+# 🟡Q4：CH02.04_Q02
 
 <img src="https://drive.google.com/uc?export=view&id=1tg2YHr0hAEAgJRlc35qd1x3N9AoC1E_G" alt="照片描述" width="450px" />
 
