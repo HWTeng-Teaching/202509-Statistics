@@ -1,6 +1,6 @@
 **HW0913**  STRAT
 
-## 🟡Q1：[ CH01.04_Q26 ] 
+## 🟡Q1：CH01.04_Q26
 
 <img src="https://drive.google.com/uc?export=view&id=1arUwBgLbv1E4rEaYlmnZuZ48gxmihU8G" alt="照片描述" width="300px" />
 
@@ -25,7 +25,7 @@ the numbers of 50 monthes children is 3, total number is 50, 50 minus 3 is 47,th
 
 
 
-# 🟡Q3：
+# 🟡Q3：CH02.02_Q14
 
 <img src="https://drive.google.com/uc?export=view&id=1hTQevg1R7i62WdsyQ0ZnXFSFWfYmZxrv" alt="照片描述" width="450px" />
 
