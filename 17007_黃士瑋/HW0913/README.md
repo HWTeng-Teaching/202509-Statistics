@@ -29,11 +29,17 @@ the numbers of 50 monthes children is 3, total number is 50, 50 minus 3 is 47,th
 
 <img src="https://drive.google.com/uc?export=view&id=1hTQevg1R7i62WdsyQ0ZnXFSFWfYmZxrv" alt="照片描述" width="450px" />
 
-1.range: maximum 71 minus minimum 40 is 31, so the range is 31.
+### ✅answer a
 
-2.x_bar mean is 59.2,deviation is: 10.37
+range: maximum 71 minus minimum 40 is 31, so the range is 31.
 
-3.the range is **31 divided by 10.37 is 2.989** standard deviations
+### ✅answer b
+
+x_bar mean is 59.2,deviation is: 10.37
+
+### ✅answer c
+
+the range is **31 divided by 10.37 is 2.989** standard deviations
 
 # 🟡Q4：
 
