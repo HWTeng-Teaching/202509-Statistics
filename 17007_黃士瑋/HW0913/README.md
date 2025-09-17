@@ -1,20 +1,20 @@
 **HW0913**  STRAT
 
-**--------------------------------------- [ CH01.04_Q26 ] ---------------------------------------**
+## 🟡Q1：[ CH01.04_Q26 ] 
 
 <img src="https://drive.google.com/uc?export=view&id=1arUwBgLbv1E4rEaYlmnZuZ48gxmihU8G" alt="照片描述" width="300px" />
 
-**answer A**
+### ✅answer a
 
 <img src="https://drive.google.com/uc?export=view&id=1qc7ncTyCHU1t_qcmcEOUvhCSsqAtG6Y8" alt="My Image" width="600" />
 
-**answer B**
+### ✅answer b
 
 
 
 
 
-**--------------------------------------- [ CH02.01_Q02 ] ---------------------------------------**
+# 🟡Q2：CH02.01_Q02
 
 <img src="https://drive.google.com/uc?export=view&id=1FNyb2vYtALgA1fCdUooNTQE8tRM95Ct-" alt="照片描述" width="450px" />
 
