@@ -45,14 +45,41 @@ the range is **31 divided by 10.37 is 2.989** standard deviations
 
 <img src="https://drive.google.com/uc?export=view&id=1tg2YHr0hAEAgJRlc35qd1x3N9AoC1E_G" alt="照片描述" width="450px" />
 
-mean is 2.3+1.0+2.1+6.5+2.8+7.8+1.7+2.9+4.4+5.1+2.0=38.6/11=3.509
+mean is 2.3+1.0+2.1+6.5+2.8+7.8+1.7+2.9+4.4+5.1+2.0=38.6/11= **3.509**
 
 standard deviation is (2.3-3.509)<sup>2</sup>+(1.0-3.509)<sup>2</sup>+(2.1-3.509)<sup>2</sup>+...then square root, **2.164**
+
+
 
 
 # 🟡Q5：
 
 <img src="https://drive.google.com/uc?export=view&id=1z_oVT1SIDiiDk2XkSoQWtVwMYjfkvRoa" alt="照片描述" width="450px" />
+
+### ✅answer a
+Five-Number Summary:
+
+Minimum: 1.70
+
+Q1: 118
+
+Median: 231
+
+Q3: 316
+
+Maximum: 485.00
+
+### ✅answer b
+
+![My Image](https://drive.google.com/uc?export=view&id=1WDo_f2M04-acY48Ev_C5z3gNjUYWR_0K)
+
+
+### ✅answer c
+
+
+
+### ✅answer d
+
 
 # 🟡Q6：
 
