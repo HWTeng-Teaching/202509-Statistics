@@ -12,7 +12,9 @@
 
 frequency for monthes 35 to 39 is 15 children,frequency for 40 to 49 is 12 children, total is 27 children, 27 divider 50 is 0.54, so that proportion is 0.54 (54%) 
 
+### ✅answer c
 
+the numbers of 50 monthes children is 3, total number is 50, 50 minus 3 is 47,then 47 divided by 50 is 0.94,so that the answer is 0.94 (94%)
 
 # 🟡Q2：CH02.01_Q02
 
