@@ -2,7 +2,7 @@
 
 |English name|Chris Chen|
 |----|----|
-|Company|Macronix International Co., Ltd.|
+|Company|Memory-related in HSP|
 |Occupation|Product marketing|
 |Interest about Finance|Financial analysis for business strategy, M&A|
 |Interest except Fiance|Swimming, Hiking|
