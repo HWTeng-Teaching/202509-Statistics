@@ -1,12 +1,12 @@
 # 陳俊呈 (Chris)
 
-Introduction
+## Introduction
 
 |Item|Personal information|
 |----|----|
 |Occupation|Product marketing|
-|Interest in Finance|Financial analysis for business strategy, M&A|
-|Interest in sport|Swimming, Hiking|
+|Interest about Finance|Financial analysis for business strategy, M&A|
+|Interest except Fiance|Swimming, Hiking|
 |Country|Taitung|
 |Generation|Y|
 |Constellations|Aquarius|
