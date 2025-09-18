@@ -1,7 +1,6 @@
-# 陳俊呈 (Chris)
+# About me
 
-## Introduction
-
+|English name|Chris|
 |----|----|
 |Occupation|Product marketing|
 |Interest about Finance|Financial analysis for business strategy, M&A|
