@@ -1,7 +1,8 @@
 # About me
 
-|English name|Chris|
+|English name|Chris Chen|
 |----|----|
+|Company|Macronix International Co., Ltd.|
 |Occupation|Product marketing|
 |Interest about Finance|Financial analysis for business strategy, M&A|
 |Interest except Fiance|Swimming, Hiking|
