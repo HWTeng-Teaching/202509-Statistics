@@ -9,9 +9,3 @@
 |Country|Taitung|
 |Generation|Y|
 |Constellations|Aquarius|
-
-
-||Measure|Graph|
-|---|---|---|
-|客觀|V||
-|多資訊||V|
