@@ -1,4 +1,4 @@
-# About me
+# Personal information
 
 |English name|Chris Chen|
 |----|----|
