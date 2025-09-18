@@ -2,7 +2,6 @@
 
 ## Introduction
 
-|Item|Personal information|
 |----|----|
 |Occupation|Product marketing|
 |Interest about Finance|Financial analysis for business strategy, M&A|
