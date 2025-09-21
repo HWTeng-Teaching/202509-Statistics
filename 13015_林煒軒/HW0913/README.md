@@ -98,7 +98,7 @@ $Upper\ bound = 317.5+1.5\*187=598$<br>
 Are there any outliers? **No, since all data fall between the lower and upper fences.**
 
 ### d.
-Yes, since mercury accumulates over time, individuals from different age groups are expected to have varying levels of mercury.
+Assuming that mercury accumulates in the liver over time, it is expected that individuals from different age groups will have varying mercury concentrations. Thus, it is reasonable that the sizes of these four observations are smaller than those of the others.
 
 ## CH02.04_Q24
 
