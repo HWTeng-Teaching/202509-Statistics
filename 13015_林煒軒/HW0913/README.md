@@ -95,7 +95,7 @@ $316+(318-316)*0.75=317.5$
 $IQR=317.5-130.5=187$<br>
 $Lower\ bound = 130.5-1.5\*187=-150$<br>
 $Upper\ bound = 317.5+1.5\*187=598$<br>
-Are there any outliers? **No**
+Are there any outliers? **No, since all data fall between the lower and upper fences.**
 
 ### d.
 Yes, since mercury accumulates over time, individuals from different age groups are expected to have varying levels of mercury.
