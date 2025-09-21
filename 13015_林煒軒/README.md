@@ -2,11 +2,11 @@
 Hi! I'm Chuck!
 
 # 📑 Table of Contents
-- [📚 Materials](#-materials)
-- [✏️ Homework](#-homework)
-- [🧠 In-Class Exercise](#-in-class-exercise)
-- [🛠️ Tools](#-tools)
-- [📦 Python Packages](#-python-packages)
+- 📚 [Materials](#-materials)
+- ✏️ [Homework](#-homework)
+- 🧠 [In-Class Exercise](#-in-class-exercise)
+- 🛠️ [Tools](#-tools)
+- 📦 [Python Packages](#-python-packages)
 
 # 📚 Materials
 - [20250913 STAT README](https://docs.google.com/spreadsheets/d/1-UFyabcTQTQ9ZaXoXk9rYrOnwDxJEAOYwu1l0E4ezAQ/edit?usp=sharing)
