@@ -1,5 +1,15 @@
 # HW0913
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TKvdy1GOr9DBrylWU2Tlb2U4siQg6Gug?usp=sharing)
+[![Static Badge](https://img.shields.io/badge/Questions-6-orange?style=flat)
+](https://drive.google.com/drive/folders/1cVm5t9ueXS6XzFrEI5XcSlXRHSf-eAYO?usp=sharing)
+
+## Table of Contents
+- [CH01.04_Q26](#ch0104_q26)
+- [CH02.01_Q02](#ch0201_q02)
+- [CH02.02_Q14](#ch0202_q14)
+- [CH02.04_Q02](#ch0204_q02)
+- [CH02.04_Q20](#ch0204_q20)
+- [CH02.04_Q24](#ch0204_q24)
 
 ## CH01.04_Q26
 
