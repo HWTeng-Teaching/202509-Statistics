@@ -107,4 +107,4 @@ Assuming that mercury accumulates in the liver over time, it is expected that in
 
 ### b.
 1. For most months, the cost falls between 248.62 and 402.28.
-2. The median is closer to Q1 than Q3, so the distribution is right-skewed.
+2. The median is closer to Q1 than Q3, so the distribution shows right-skewed.
