@@ -3,9 +3,9 @@ Hi! I'm Chuck!
 
 # 📑 Table of Contents
 - 📚 [Materials](#-materials)
-- ✏️ [Homework](#-homework)
+- ✏️ [Homework](#%EF%B8%8F-homework)
 - 🧠 [In-Class Exercise](#-in-class-exercise)
-- 🛠️ [Tools](#-tools)
+- 🛠️ [Tools](#%EF%B8%8F-tools)
 - 📦 [Python Packages](#-python-packages)
 
 # 📚 Materials
