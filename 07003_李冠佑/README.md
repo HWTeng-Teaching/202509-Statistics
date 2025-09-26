@@ -1,3 +1,7 @@
 # 李冠佑
 
-You can find my info at my [Webpage](https://github.com/AndyLi1024)
+## 簡介
+至少過往人生都是試圖Skin in the game，保有一小部分試單ㄉ想法，舉凡在各種生活經驗中，就算失敗還是有拿到 loss function 當慰藉
+
+## 未來規劃
+並沒有賺到啥大錢，也沒有很厲害，如果可以我也不用在多花幾年讀博班找alpha，可能最後是一場空笑夢🥲
