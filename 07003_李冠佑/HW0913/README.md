@@ -74,14 +74,14 @@ $z_{\max} = \frac{(7.8-3.51)}{2.16}\approx 1.98$
 
 - Max = 485.00
 
-(IQR = Q3 − Q1 = 174.00)
+(IQR = Q3 − Q1 = 187)
 
 ### b.Box plot
 <img width="700" height="590" alt="image" src="https://github.com/user-attachments/assets/1b56803c-58dd-448e-ae74-c28190042dd7" />
 
 ### c.Outliers
-Upper fence = 317 + 1.5×174 = 578；
-Lower fence = 143 − 1.5×174 = −118。
+Upper fence = 317.5 + 1.5×187 = 598；
+Lower fence = 130.5 − 1.5×187 = −150
 
  ⇒ so no outliers by this criterion.
 
