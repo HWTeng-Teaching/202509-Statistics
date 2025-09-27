@@ -64,5 +64,24 @@ scatterplot散布圖:拉X Y軸，畫出點點
 
 當 X y 二維時候的 stylized-feature
 
-![Uploading image.png…]()
+<img width="1804" height="1316" alt="image" src="https://github.com/user-attachments/assets/77fc59b3-d7d6-4972-97bc-fa3f8cc8ea89" />
+
+共變數 (covariance)；計算標準差→ 相關係數 (correlation)，數值介於 -1 到 +1
+
+Regression line = 迴歸線
+
+y=a+bX，舉例,y=3+2X,由(0,3)、(1,5)兩個點組成，截距x=0,y=3，斜率slope=2
+
+Ch 1, 2, 3 Graphs (histogram, boxplot, dot plot, stemplot) 
+
+<img width="1296" height="1160" alt="image" src="https://github.com/user-attachments/assets/36fd2a25-c36a-4048-8bde-e7804332c761" />
+
+#複習這張表#
+
+enumerate窮舉，每個都要數出來而且不能重複計算或重複列到
+
+<img width="1184" height="864" alt="image" src="https://github.com/user-attachments/assets/635690a9-773b-4e6d-8b15-f365a4c954f4" />
+
+in repented sampling,about 50% bosention is H
+
 
