@@ -78,7 +78,7 @@ Ch 1, 2, 3 Graphs (histogram, boxplot, dot plot, stemplot)
 
 #複習這張表#
 
-第4章談"機率"，simple event畫樹狀圖→極度重要!!
+第4章談"機率"，概念~simple space裡面simple event畫樹狀圖→極度重要!!
 
 enumerate窮舉，每個都要數出來而且不能重複計算或重複列到
 
