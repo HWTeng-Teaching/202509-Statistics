@@ -56,4 +56,13 @@ STANDARD deviation標準差
 
 前兩章教學內容是談"分配"的概念，用作圖工具，看"資料分配(disturbution)的情況"
 
+第3章談 bivariate，數字分為"類別型"、"連線型/數值型" 兩種
+
+當數字很多時候，可以列出"列連表"，把數字做好分類
+
+scatterplot散布圖:拉X Y軸，畫出點點
+
+當 X y 二維時候的 stylized-feature
+
+![Uploading image.png…]()
 
