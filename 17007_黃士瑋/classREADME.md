@@ -78,10 +78,19 @@ Ch 1, 2, 3 Graphs (histogram, boxplot, dot plot, stemplot)
 
 #複習這張表#
 
+第4章談"機率"
+
 enumerate窮舉，每個都要數出來而且不能重複計算或重複列到
 
 <img width="1184" height="864" alt="image" src="https://github.com/user-attachments/assets/635690a9-773b-4e6d-8b15-f365a4c954f4" />
 
-in repented sampling,about 50% bosention is H
+in repented sampling,about 50% bosention is H → 解釋"機率"得正確解釋方式
+
+窮舉必須無限大統計計算機率(不太可能)，因此，統計學家用以下公理，#整個滿足幾綠條件的就是以下的三個條件# math axioms「機率公理」
+
+<img width="1142" height="858" alt="image" src="https://github.com/user-attachments/assets/8ea01b06-613b-4a19-9a18-446c9b01d377" />
+
+機率本質是動態的，所以例如丟硬幣出現正反，其正確解釋機率方式為：如果可以無限抽樣(simple event)，發生正面的機率達50%
+
 
 
