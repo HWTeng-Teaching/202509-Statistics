@@ -1,9 +1,2 @@
 HW0927	Question
-1	CH03.01_Q10
-2	CH03.02_Q25
-3	CH03.02_Q27
-4	CH04.01_Q24
-5	CH04.01_Q27
-6	CH04.02_Q21
-7	CH04.02_Q29
-BONUS	Case study of chapter 2;
+<img width="257" height="230" alt="image" src="https://github.com/user-attachments/assets/18c2b161-3d88-484f-a6a6-1758a07dd93f" />
