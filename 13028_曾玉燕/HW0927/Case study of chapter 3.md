@@ -36,10 +36,11 @@ Washing (洗滌力) 與 Noise (噪音) 竟然呈正相關 (r = 0.23)
 - 直覺：運轉時應產生較大噪音，因此噪音分數應較差，兩者應呈負相關。
 - 實際：顯示為正相關，可能是因為廠商在提升洗淨力的同時，也有考慮到會產生噪音，而加強投入降噪設計，，使得兩者並未呈現直覺上的負向關係。
 
-
-
-
-
 										
 <img width="1410" height="101" alt="image" src="https://github.com/user-attachments/assets/fc93ffe1-90dd-4978-ba11-df8aa7b2a211" />
+  
+&nbsp;&nbsp;&nbsp;&nbsp; 洗衣機的價格在某種程度上能反映品質，但相關性並不強。  
+&nbsp;&nbsp;&nbsp;&nbsp; 根據相關係數矩陣，價格與整體滿意度 (Score, r = 0.23)、溫和度 (Gentleness, r = 0.36) 以及 穩定度 (Vibration, r = 0.35) 的相關性相對較高。其中，溫和度與穩定度同時也是與 Score 相關性最高的兩個變數，顯示消費者在選擇洗衣機時，特別重視衣物在洗滌過程中不被拉扯損壞，以及機台本身運作的穩定性，以避免過度震動造成故障或維修費用。
+然而，價格與其他特性（如節能、耗水量、容量等）的相關性接近於零，代表價格並不能全面反映所有品質面向。
 
+<img width="405" height="444" alt="image" src="https://github.com/user-attachments/assets/913b4de5-a153-4145-b373-e51f37e96b91" />
