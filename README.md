@@ -2,15 +2,10 @@
 *Created by HWTeng-Teaching on 20250913*
 Updated info can be seen in [Google Sheet](https://docs.google.com/spreadsheets/d/1-UFyabcTQTQ9ZaXoXk9rYrOnwDxJEAOYwu1l0E4ezAQ/edit?usp=sharing)
 
-
-## POST
-<img width="818" height="407" alt="image" src="https://github.com/user-attachments/assets/fbb47a5a-bfc8-48bc-ba8e-a62db886f468" />
-
-
-
-
 ## In-Clss Exercise
 - [IC0913](https://forms.gle/DsTkE7f9zfFEgmzN7)
+- [IC0927](https://forms.gle/WARKfvLDC447MQv17)
+  
 
 ## Name list
 

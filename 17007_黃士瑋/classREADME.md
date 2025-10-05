@@ -56,4 +56,41 @@ STANDARD deviation標準差
 
 前兩章教學內容是談"分配"的概念，用作圖工具，看"資料分配(disturbution)的情況"
 
+第3章談 bivariate，數字分為"類別型"、"連線型/數值型" 兩種
+
+當數字很多時候，可以列出"列連表"，把數字做好分類
+
+scatterplot散布圖:拉X Y軸，畫出點點
+
+當 X y 二維時候的 stylized-feature
+
+<img width="1804" height="1316" alt="image" src="https://github.com/user-attachments/assets/77fc59b3-d7d6-4972-97bc-fa3f8cc8ea89" />
+
+共變數 (covariance)；計算標準差→ 相關係數 (correlation)，數值介於 -1 到 +1
+
+Regression line = 迴歸線
+
+y=a+bX，舉例,y=3+2X,由(0,3)、(1,5)兩個點組成，截距x=0,y=3，斜率slope=2
+
+Ch 1, 2, 3 Graphs (histogram, boxplot, dot plot, stemplot) 
+
+<img width="1296" height="1160" alt="image" src="https://github.com/user-attachments/assets/36fd2a25-c36a-4048-8bde-e7804332c761" />
+
+#複習這張表#
+
+第4章談"機率"，概念~simple space裡面simple event畫樹狀圖→極度重要!!
+
+enumerate窮舉，每個都要數出來而且不能重複計算或重複列到
+
+<img width="1184" height="864" alt="image" src="https://github.com/user-attachments/assets/635690a9-773b-4e6d-8b15-f365a4c954f4" />
+
+in repented sampling,about 50% bosention is H → 解釋"機率"得正確解釋方式
+
+窮舉必須無限大統計計算機率(不太可能)，因此，統計學家用以下公理，#整個滿足幾綠條件的就是以下的三個條件# math axioms「機率公理」
+
+<img width="1142" height="858" alt="image" src="https://github.com/user-attachments/assets/8ea01b06-613b-4a19-9a18-446c9b01d377" />
+
+機率本質是動態的，所以例如丟硬幣出現正反，其正確解釋機率方式為：如果可以無限抽樣(simple event)，發生正面的機率達50%
+
+
 
