@@ -2,6 +2,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TKvdy1GOr9DBrylWU2Tlb2U4siQg6Gug?usp=sharing)
 [![Static Badge](https://img.shields.io/badge/Questions-6-orange?style=flat)
 ](https://drive.google.com/drive/folders/1cVm5t9ueXS6XzFrEI5XcSlXRHSf-eAYO?usp=sharing)
+[![Solutions](https://img.shields.io/badge/Solutions-6-orange?style=flat)](https://colab.research.google.com/drive/1l1bTijmMmsdBsvdzsTKprzd2CCj6ynwF?usp=sharing)
+
+
 
 ## Table of Contents
 - [CH01.04_Q26](#ch0104_q26)
