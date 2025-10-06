@@ -15,6 +15,7 @@ Hi! I'm Chuck!
 
 # ✏️ Homework
 - [HW0913](./HW0913/README.md)
+- [HW0927](./HW0927/README.md)
 
 # 🧠 In-Class Exercise
 - [0913 in-class exercise](https://colab.research.google.com/drive/11bHlxmhZ0DXfqTn8fhpE8vlVmp03GyjU?usp=drive_link) (quantiles)
