@@ -47,3 +47,5 @@ Min=33 為極端低分，但仍在下界之內；因為 Lower Fence = 63，Min �
 4. IQR 較小（25）→ 代表資料波動不大、穩定度高
 
 ### Q2. Look at all the variables in pairs.Which pairs are positively correlated?Negatively correlated?Are there any pairs that exhibit little or no correlation?Are some of these results counterintuitive?
+
+### Q3. Does the price of an appliance,specifically a washing machine,convey something about its quality?Which variables did you use in arriving at your answer?
