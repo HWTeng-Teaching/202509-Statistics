@@ -8,8 +8,24 @@
 
 統計男女生個別皆100人有無手機發現，相同之處是，男女生都過50%擁有手機，表示手機裝置對於年輕人有相當程度的影響，又以女生稍微較男生多，可能表示，8年級女生相較男生，有更多因素需要手機裝置，例如:安全聯繫、girl`s talk(?)等等
 
+--------
+
+--------
+
 **第2題** 3.2 Q25
 
 <img width="617" height="629" alt="image" src="https://github.com/user-attachments/assets/7dcd7251-19fd-4b80-afad-15086cd91190" />
+
+ans A：Independent variable is Temperature.Dependent variable is Chirps per second
+
+ans B：兩個變因是強相關
+
+<img width="823" height="554" alt="image" src="https://github.com/user-attachments/assets/e4727034-7a4a-47b8-92d6-3c3dfdba1a21" />
+
+ans C：
+
+<img width="968" height="758" alt="image" src="https://github.com/user-attachments/assets/34f15872-8141-4f31-a31e-d1c0c7803020" />
+
+ans D：Y=6.12+0.41∗27 ≈ 17.06
 
 
