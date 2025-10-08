@@ -33,3 +33,15 @@ Ans:
 Min=33 為極端低分，但仍在下界之內；因為 Lower Fence = 63，Min 沒有低於此值，因此不被視為「離群值」。Max=86 明顯低於 Upper Fence=93
 
 3. 表示沒有特別高的極端值，整體分佈偏穩定。整體趨勢為「略左偏、分佈穩定、集中性高」。
+
+## c. Cycle time Variables
+
+<img width="1397" height="980" alt="Image" src="https://github.com/user-attachments/assets/1aed8f67-6f4d-4cde-a244-77c9a03c3ef9" />
+
+1. 大部分的 Cycle time 約介於 75～100。
+
+2. 中央趨勢為 90，屬於資料的典型值。
+
+3. 無明顯離群點 → 生產或作業流程相對穩定。
+
+4. IQR 較小（25）→ 代表資料波動不大、穩定度高
