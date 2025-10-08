@@ -6,13 +6,20 @@
 <img width="993" height="393" alt="image" src="https://github.com/user-attachments/assets/2e9b2e30-c955-4bff-9c36-5b133a355217" />
 
 Price：
+此資料的價格分布呈右偏（尾巴在右），大部分洗衣機價格集中在中低價位（700–1300），
+僅有少數高價機種Speed QueenAFNE9BSP113TN01($2450）為離群值。
+沒有明顯的低價異常，整體分布穩定且偏向正常。
 
 <img width="993" height="393" alt="image" src="https://github.com/user-attachments/assets/5fcf5eb1-5033-4a8a-adfa-8a0503e606f1" />
 Score：
+存在少數低分樣本，使資料呈現左長尾分布。大部分洗衣機的整體評價都集中在 75–85 分之間，顯示整體品質良好且穩定。
+分布略偏左，僅有一台低分機Electrolux EFLW417SIW  (Score=33) 為明顯離群樣本，代表該產品品質或滿意度顯著低於其他機型。
 
 <img width="993" height="393" alt="image" src="https://github.com/user-attachments/assets/a5663102-6138-49e4-9600-0ef2ec661640" />
 
 CycleTime：
+分布屬接近對稱，說明市場上多數洗衣機的洗程時間集中在1小時至1.5小時間。
+無極端離群樣本，顯示廠商在設計洗程時間上有一致的標準。
 
 ### 2. Look at all the variables in pairs. Which pairs are positively correlated? Negatively correlated? Are there any pairs that exhibit little or no correlation? Are some of these results counterintuitive?
 利用Google Colab製作熱圖 (Heatmap) 看變數間的R係數，來判斷變數之間的線性關聯程度
