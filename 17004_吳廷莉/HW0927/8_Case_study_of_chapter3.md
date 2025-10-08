@@ -17,6 +17,7 @@ CycleTime：
 ### 2. Look at all the variables in pairs. Which pairs are positively correlated? Negatively correlated? Are there any pairs that exhibit little or no correlation? Are some of these results counterintuitive?
 利用Google Colab製作熱圖 (Heatmap) 看變數間的R係數，來判斷變數之間的線性關聯程度
 <img width="839" height="728" alt="image" src="https://github.com/user-attachments/assets/89dbe7d7-bba0-42e7-99ec-cbb5f99510b0" />
+<img width="1362" height="342" alt="image" src="https://github.com/user-attachments/assets/794e6a04-0c05-4a61-8da8-fbab02159796" />
 
 正相關與負相關皆列於圖上
 
