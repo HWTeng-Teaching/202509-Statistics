@@ -1,7 +1,7 @@
 <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/41a5e4a0-f1f0-4918-aa09-95db5d1a436c"/>
 <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/a57e1a9c-d041-4618-90e8-68a1c7045151"/>
 
-Q1 : Look at the variables Price,Score,and Cycle Time individually.What can you say about symmetry?About outliers?
+### Q1 : Look at the variables Price,Score,and Cycle Time individually.What can you say about symmetry?About outliers?
 
 Ans:
 
@@ -45,3 +45,5 @@ Min=33 為極端低分，但仍在下界之內；因為 Lower Fence = 63，Min �
 3. 無明顯離群點 → 生產或作業流程相對穩定。
 
 4. IQR 較小（25）→ 代表資料波動不大、穩定度高
+
+### Q2. Look at all the variables in pairs.Which pairs are positively correlated?Negatively correlated?Are there any pairs that exhibit little or no correlation?Are some of these results counterintuitive?
