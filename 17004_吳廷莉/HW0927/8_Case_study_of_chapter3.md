@@ -26,8 +26,6 @@ CycleTime：
 <img width="839" height="728" alt="image" src="https://github.com/user-attachments/assets/89dbe7d7-bba0-42e7-99ec-cbb5f99510b0" />
 <img width="1362" height="342" alt="image" src="https://github.com/user-attachments/assets/794e6a04-0c05-4a61-8da8-fbab02159796" />
 
-正相關與負相關皆列於圖上
-
 | 類型 | \|r\| 值 | 關係強度 |
 |------|----------|----------|
 | 幾乎沒有相關 | 0.00–0.19 | 幾乎沒有相關 |
@@ -35,16 +33,8 @@ CycleTime：
 | 中度相關 | 0.40–0.59 | 中度相關 |
 | 顯著相關 | 0.60–0.79 | 顯著相關 |
 | 強相關 | 0.80–1.00 | 強相關 |
-
-washing performance洗滌性能
-energy efficiency能源效率
-water efficiency用水效率
-gentleness柔和度
-noise噪音
-vibration振動
-capacity容量
-cycle time洗滌時間
-
+依據上表，將關係整理如下
+<img width="2142" height="373" alt="image" src="https://github.com/user-attachments/assets/9b48a157-f87b-4104-99fc-ef10735b2150" />
 違反直覺的幾個部分：
 Price – Energy	R=0.01	幾乎無關 → 理論上高價機應該更節能。
 Price – Water	R=0.06	幾乎無關 → 理論上高階機應該較省水。
