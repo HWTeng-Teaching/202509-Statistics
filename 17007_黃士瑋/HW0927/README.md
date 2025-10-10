@@ -112,7 +112,9 @@ y=-13.91+4.4x → y=-13.91+4.4*48=197.29
 
 價格分布呈右偏（尾巴在右），大部分洗衣機價格集中在中低價位（700–1300）， 僅有少數高價機種Speed QueenAFNE9BSP113TN01($2450）為離群值。 沒有明顯的低價異常，整體分布穩定且偏向正常。
 
-<img width="528" height="369" alt="image" src="https://github.com/user-attachments/assets/2f01ee6c-c969-4a51-b5ca-8707c51785af" />
+<img width="1075" height="369" alt="image" src="https://github.com/user-attachments/assets/3f50d9f1-8d06-4094-8302-1c6806b44f17" />
+
+大部分洗衣機的整體評價都集中在 75–85 分之間，顯示整體品質良好且穩定。 分布略偏左，僅有一台低分機Electrolux EFLW417SIW (Score=33) 為明顯離群樣本，代表該產品品質或滿意度顯著低於其他機型。
 
 <img width="606" height="392" alt="image" src="https://github.com/user-attachments/assets/c2c634aa-9198-4268-8f6a-7f140aa0072d" />
 
