@@ -86,6 +86,12 @@ y=-13.91+4.4x → y=-13.91+4.4*48=197.29
 
 <img width="1184" height="500" alt="image" src="https://github.com/user-attachments/assets/17b982d3-9cbc-4d73-9dc0-b1c6dc5c0c2e" />
 
+--------
+
+--------
+
+**BONUS** case study of CH2
+
 
 
 
