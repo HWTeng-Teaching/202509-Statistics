@@ -32,6 +32,16 @@ ans D：Y=6.12+0.41∗27 ≈ 17.06
 
 --------
 
-**第3題** 
+**第3題** CH3-02_Q27
 
+<img width="588" height="748" alt="image" src="https://github.com/user-attachments/assets/1dd79357-a0f5-4026-b297-fa907a6a3681" />
 
+ans A：直觀來說，樓層數決定高樓的高度，所以自變量 (Independent Variable)是樓層數 (Floors)，因變量 (Dependent Variable)是高度 (Height)
+
+<img width="590" height="1054" alt="image" src="https://github.com/user-attachments/assets/8a555f1d-98c0-4ff4-be09-2ecd5fac0d69" />
+
+ans B：樓層數與樓層高度有絕對正相關，r=0.96
+
+<img width="542" height="342" alt="image" src="https://github.com/user-attachments/assets/fd60b3a9-574f-4e17-be86-40b1c7b20848" />
+
+y=-13.91+4.4x → y=-13.91+4.4*48=197.29
