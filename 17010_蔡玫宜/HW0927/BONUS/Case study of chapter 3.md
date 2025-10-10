@@ -68,13 +68,18 @@ score 為x1 到 X6 加總結果，所以為正相關為合理。
 
 3) 容量大理論上與能源效率應該會比較差，應該為負相關，違反直覺。
 
-# special issue
+# Special issue
 
 經由第一題尋找離群值中發現，由price變數中，出現 no.47的資料(2450)為離群值，若將離群值剃除相關係數表如以下：
 
-<img width="1482" height="653" alt="Image" src="https://github.com/user-attachments/assets/05d7b6f4-2ad1-48c3-a585-bde315eb953f" />
+<img width="1479" height="651" alt="Image" src="https://github.com/user-attachments/assets/f3393498-bf8d-4224-b6c3-7fb6407b4521" />
 
-此表與第一張表格之差異，
-
+此表與第一張表格之差異，價格對於洗衣時間，由負相關轉成低度相關，其他變化不大。對於結論影響不高。
 
 ### Q3. Does the price of an appliance,specifically a washing machine,convey something about its quality?Which variables did you use in arriving at your answer?
+
+<img width="200" height="250" alt="Image" src="https://github.com/user-attachments/assets/47265d9d-608d-4907-8cdd-c764b6efa506" />
+
+<img width="200" height="250" alt="Image" src="https://github.com/user-attachments/assets/699e7a22-b5c2-40f0-bf03-8a25e023ec49" />
+
+價格對於整體的分數的相關程度只有0.23對於洗淨力能源效率省水效率的相關係數都偏低，唯獨對溫和性及震動有較明顯的相關可見可預期的到價格高的產品其溫和性及震動的程度對消費者而言有較好的表現。
