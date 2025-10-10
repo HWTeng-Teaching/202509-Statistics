@@ -12,5 +12,8 @@
 <img width="821" height="490" alt="image" src="https://github.com/user-attachments/assets/44a54bdc-066b-4ad2-af98-9e67000848cd" /><br>
 ## 2.<br>
 ## 3.<br>
+Generally, the price of the washing machine conveys a positive linear about its quality, although the correlation
+coefficient($r$) is less than 0.5. <br>
+The most effective variable is Capacity(x7), and the least effective variable is Cycle Time(x8).<br>
 <img width="1140" height="731" alt="image" src="https://github.com/user-attachments/assets/ce17a60a-95c6-49eb-9ac3-a3cace8dc4b4" /><br>
 
