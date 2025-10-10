@@ -6,7 +6,7 @@
 ## 1.<br>
 ### Price(Has outliers):<br>
 <img width="821" height="497" alt="image" src="https://github.com/user-attachments/assets/dc3184b7-a668-4ba3-a741-b89ece8a17f4" /><br>
-### Score(Has outliers:<br>
+### Score(Has outliers):<br>
 <img width="819" height="511" alt="image" src="https://github.com/user-attachments/assets/e32962f0-85a9-4970-a3b9-c2a1ae515fd0" /><br>
 ### Cycle time(No outliers):<br>
 <img width="821" height="490" alt="image" src="https://github.com/user-attachments/assets/44a54bdc-066b-4ad2-af98-9e67000848cd" /><br>
