@@ -70,9 +70,22 @@ y=-13.91+4.4x → y=-13.91+4.4*48=197.29
 
 --------
 
-**第6題** CH4-04_Q21
+**第6題** CH4-02_Q21
 
 <img width="622" height="776" alt="image" src="https://github.com/user-attachments/assets/3a6bd546-edaa-4f91-945c-c5c721c2f8fd" />
 
 <img width="946" height="580" alt="image" src="https://github.com/user-attachments/assets/7f384478-790b-4f40-b64f-98ef2beaa16f" />
+
+--------
+
+--------
+
+**第7題** CH4-02_Q29
+
+<img width="660" height="692" alt="image" src="https://github.com/user-attachments/assets/3cf9b834-731d-4ff5-926f-9bda144e6c7f" />
+
+<img width="1184" height="500" alt="image" src="https://github.com/user-attachments/assets/17b982d3-9cbc-4d73-9dc0-b1c6dc5c0c2e" />
+
+
+
 
