@@ -54,6 +54,7 @@ y=-13.91+4.4x → y=-13.91+4.4*48=197.29
 
 <img width="958" height="704" alt="image" src="https://github.com/user-attachments/assets/8f1cdef3-7c34-4091-b7d0-b527881fa494" />
 
-<img width="760" height="936" alt="image" src="https://github.com/user-attachments/assets/0fde3a0a-f3e1-4eb6-8809-9b52c7b8d28c" />
+<img width="878" height="924" alt="image" src="https://github.com/user-attachments/assets/5571d068-ccdd-4c57-9dfe-31403d110c51" />
+
 
 
