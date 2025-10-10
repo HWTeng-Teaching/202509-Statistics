@@ -3,7 +3,7 @@
 
 ### Q1 : Look at the variables Price,Score,and Cycle Time individually.What can you say about symmetry?About outliers?
 
-Ans:
+### Ans:
 
 ## a. Price Variables
 
@@ -47,5 +47,34 @@ Min=33 為極端低分，但仍在下界之內；因為 Lower Fence = 63，Min �
 4. IQR 較小（25）→ 代表資料波動不大、穩定度高
 
 ### Q2. Look at all the variables in pairs.Which pairs are positively correlated?Negatively correlated?Are there any pairs that exhibit little or no correlation?Are some of these results counterintuitive?
+
+## Ans
+
+a) 此表為尚未剃除OUTLINER之相關係數表
+
+<img width="1548" height="655" alt="Image" src="https://github.com/user-attachments/assets/cc9315df-33aa-45bd-8816-140008cc06c7" />
+
+此表相關係數低於+-0.3，所以參考價值較低。
+唯一有參考價值者，省水效率對溫和性，相關係數達 0.66。
+score 為x1 到 X6 加總結果，所以為正相關為合理。
+
+由於兩兩間的相關係數(X1-X6)之間,相關性都不高，所以比較難定義兩變數間的關係。
+
+## 是否有違反直覺的相關結果？
+
+1) score越高，洗衣時間應該越短，應該為負相關，目前卻呈現正相關，違反直覺。
+
+2) 洗淨力對價格表現，應該預期會有一定強度的相關性，但目前幾近零相關，違反直覺。
+
+3) 容量大理論上與能源效率應該會比較差，應該為負相關，違反直覺。
+
+# special issue
+
+經由第一題尋找離群值中發現，由price變數中，出現 no.47的資料(2450)為離群值，若將離群值剃除相關係數表如以下：
+
+<img width="1482" height="653" alt="Image" src="https://github.com/user-attachments/assets/05d7b6f4-2ad1-48c3-a585-bde315eb953f" />
+
+此表與第一張表格之差異，
+
 
 ### Q3. Does the price of an appliance,specifically a washing machine,convey something about its quality?Which variables did you use in arriving at your answer?
