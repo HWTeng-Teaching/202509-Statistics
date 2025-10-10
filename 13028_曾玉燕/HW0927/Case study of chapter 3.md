@@ -10,7 +10,7 @@
 * Score:分數分布左偏，且有數個離群值。  
 ![ch3case-2](https://github.com/user-attachments/assets/1f2cdf2f-9ba6-4286-ac76-1ca6aaa6c55c)
 
-* Cycle Time:接近常態分佈，沒有離群值。  
+* Cycle Time:接近常態分佈，但略為左偏，沒有離群值。  
 ![ch3case-3](https://github.com/user-attachments/assets/665d910f-3d5e-4d90-beae-b69bcd630794) 
 
 									
