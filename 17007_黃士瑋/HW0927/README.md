@@ -45,3 +45,15 @@ ans B：樓層數與樓層高度有絕對正相關，r=0.96
 <img width="542" height="342" alt="image" src="https://github.com/user-attachments/assets/fd60b3a9-574f-4e17-be86-40b1c7b20848" />
 
 y=-13.91+4.4x → y=-13.91+4.4*48=197.29
+
+--------
+
+--------
+
+**第4題** CH4-01_Q24
+
+<img width="958" height="704" alt="image" src="https://github.com/user-attachments/assets/8f1cdef3-7c34-4091-b7d0-b527881fa494" />
+
+<img width="760" height="936" alt="image" src="https://github.com/user-attachments/assets/0fde3a0a-f3e1-4eb6-8809-9b52c7b8d28c" />
+
+
