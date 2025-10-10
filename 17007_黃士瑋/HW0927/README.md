@@ -20,11 +20,11 @@ ans A：Independent variable is Temperature.Dependent variable is Chirps per sec
 
 ans B：兩個變因是強相關
 
-<img width="823" height="554" alt="image" src="https://github.com/user-attachments/assets/e4727034-7a4a-47b8-92d6-3c3dfdba1a21" />
+<img width="834" height="508" alt="image" src="https://github.com/user-attachments/assets/18d49487-eb5a-442c-a81c-c188d7a9b704" />
 
 ans C：
 
-<img width="968" height="758" alt="image" src="https://github.com/user-attachments/assets/34f15872-8141-4f31-a31e-d1c0c7803020" />
+<img width="862" height="948" alt="image" src="https://github.com/user-attachments/assets/428680ae-323b-4ed1-8604-bccca35149f9" />
 
 ans D：Y=6.12+0.41∗27 ≈ 17.06
 
