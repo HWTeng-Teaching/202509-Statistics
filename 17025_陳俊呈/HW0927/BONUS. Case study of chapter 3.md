@@ -20,6 +20,6 @@ Energy(x2) and Water(x3) exhibit little correlation to Price(y) because their va
 ## 3.<br>
 To refer to the Fig.1, the price of the washing machine conveys a positive linear about its quality, although the correlation
 coefficient($r$) is less than 0.5. <br>
-The most effective variable is Capacity(x7), and the least effective variable is Cycle Time(x8).<br>
+The top effective variables are related to efficiency and comfort, such as the top four variables, Capacity(x7), Vibration(x6), Noise(x5), and Washing(x1).
 
 
