@@ -12,6 +12,8 @@
 
 --------
 
+--------
+
 **第2題** 3.2 Q25
 
 <img width="617" height="629" alt="image" src="https://github.com/user-attachments/assets/7dcd7251-19fd-4b80-afad-15086cd91190" />
@@ -27,6 +29,8 @@ ans C：
 <img width="862" height="948" alt="image" src="https://github.com/user-attachments/assets/428680ae-323b-4ed1-8604-bccca35149f9" />
 
 ans D：Y=6.12+0.41∗27 ≈ 17.06
+
+--------
 
 --------
 
@@ -50,11 +54,15 @@ y=-13.91+4.4x → y=-13.91+4.4*48=197.29
 
 --------
 
+--------
+
 **第4題** CH4-01_Q24
 
 <img width="958" height="704" alt="image" src="https://github.com/user-attachments/assets/8f1cdef3-7c34-4091-b7d0-b527881fa494" />
 
 <img width="878" height="924" alt="image" src="https://github.com/user-attachments/assets/5571d068-ccdd-4c57-9dfe-31403d110c51" />
+
+--------
 
 --------
 
@@ -70,6 +78,8 @@ y=-13.91+4.4x → y=-13.91+4.4*48=197.29
 
 --------
 
+--------
+
 **第6題** CH4-02_Q21
 
 <img width="622" height="776" alt="image" src="https://github.com/user-attachments/assets/3a6bd546-edaa-4f91-945c-c5c721c2f8fd" />
@@ -80,11 +90,15 @@ y=-13.91+4.4x → y=-13.91+4.4*48=197.29
 
 --------
 
+--------
+
 **第7題** CH4-02_Q29
 
 <img width="660" height="692" alt="image" src="https://github.com/user-attachments/assets/3cf9b834-731d-4ff5-926f-9bda144e6c7f" />
 
 <img width="1184" height="500" alt="image" src="https://github.com/user-attachments/assets/17b982d3-9cbc-4d73-9dc0-b1c6dc5c0c2e" />
+
+--------
 
 --------
 
