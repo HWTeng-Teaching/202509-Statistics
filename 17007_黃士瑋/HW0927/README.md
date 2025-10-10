@@ -66,4 +66,13 @@ y=-13.91+4.4x → y=-13.91+4.4*48=197.29
 
 <img width="864" height="224" alt="image" src="https://github.com/user-attachments/assets/93aa408b-fc1e-4d39-a2be-28e9e9af05b5" />
 
+--------
+
+--------
+
+**第6題** CH4-04_Q21
+
+<img width="622" height="776" alt="image" src="https://github.com/user-attachments/assets/3a6bd546-edaa-4f91-945c-c5c721c2f8fd" />
+
+<img width="946" height="580" alt="image" src="https://github.com/user-attachments/assets/7f384478-790b-4f40-b64f-98ef2beaa16f" />
 
