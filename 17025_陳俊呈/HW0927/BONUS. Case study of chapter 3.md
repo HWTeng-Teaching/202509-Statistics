@@ -12,7 +12,7 @@
 <img width="821" height="490" alt="image" src="https://github.com/user-attachments/assets/44a54bdc-066b-4ad2-af98-9e67000848cd" /><br>
 ## 2.<br>
 ### Fig. 1:
-<img width="1140" height="731" alt="image" src="https://github.com/user-attachments/assets/ce17a60a-95c6-49eb-9ac3-a3cace8dc4b4" /><br>
+<img width="1141" height="731" alt="image" src="https://github.com/user-attachments/assets/821ae89c-e4e5-4d05-b5ef-b7b254228da4" /><br>
 Price(y) and Score(y) are positive related to all of the variables(x1, ..., x8)<br>
 Energy(x2) and Water(x3) exhibit little correlation to Price(y) because their values of $r$ are less than 0.3, which may infer counterintuitive to Price(y).<br>
 
