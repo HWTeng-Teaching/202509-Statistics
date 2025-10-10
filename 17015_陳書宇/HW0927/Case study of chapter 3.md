@@ -1,4 +1,8 @@
 
+<img width="658" height="800" alt="image" src="https://github.com/user-attachments/assets/8d6ff3d0-d474-4c96-96b4-236a0e35530b" />
+
+<img width="632" height="521" alt="image" src="https://github.com/user-attachments/assets/1c2345f4-1e6c-4d92-8325-db4a3aab1e99" />
+
 # 假設數據已載入到名為 df 的 Pandas DataFrame 中
 
 # 匯入所需函式庫
