@@ -106,6 +106,17 @@ y=-13.91+4.4x → y=-13.91+4.4*48=197.29
 
 **BONUS** case study of CH2
 
+<img width="1184" height="372" alt="image" src="https://github.com/user-attachments/assets/fafb17c3-442b-41a2-9189-3aa4dbaf8094" />
+
+<img width="542" height="461" alt="image" src="https://github.com/user-attachments/assets/bc11ebe0-f571-4c54-ba6e-added23da4da" />
+
+價格分布呈右偏（尾巴在右），大部分洗衣機價格集中在中低價位（700–1300）， 僅有少數高價機種Speed QueenAFNE9BSP113TN01($2450）為離群值。 沒有明顯的低價異常，整體分布穩定且偏向正常。
+
+<img width="528" height="369" alt="image" src="https://github.com/user-attachments/assets/2f01ee6c-c969-4a51-b5ca-8707c51785af" />
+
+<img width="606" height="392" alt="image" src="https://github.com/user-attachments/assets/c2c634aa-9198-4268-8f6a-7f140aa0072d" />
+
+ 分布對稱，洗衣機的洗程時間集中在1小時至1.5小時間。 無極端離群樣本，廠商設計時間有一致標準。
 
 
 
