@@ -79,11 +79,63 @@ $b=r\frac{S_y}{S_x}=0.96 \cdot \frac{43.71}{9.49}=4.42$
   
 $a=\bar y - b \bar x=202.86-4.42 \times 49.21=-14.65$  
   
-The least-squares line: $y=-14.65+4.42x$  
+$y=-14.65+4.42x$  
   
 $y=-14.65+4.42 \times 48=197.51$
 
-## CH04.01_Q24																								
-## CH04.01_Q27																								
-## CH04.02_Q21																								
-## CH04.02_Q29																								
+## CH04.01_Q24
+<img width="370" height="66" alt="image" src="https://github.com/user-attachments/assets/245bbe6b-3f10-4cd7-a6f8-c64165531bf2" />
+
+<img width="2357" height="1380" alt="tree_diagram_ex24_lr" src="https://github.com/user-attachments/assets/af7a90a9-161f-4f04-86c8-42ad5d024045" />
+
+S={YYYY, YYYN, YYNY, YYNN, YNYY, YNYN, YNNY, YNNN, NYYY, NYYN, NYNY, NYNN, NNYY, NNYN, NNNY, NNNN}
+
+
+## CH04.01_Q27
+<img width="370" height="66" alt="image" src="https://github.com/user-attachments/assets/74d66622-8054-4e60-b822-b62ad9cd638f" />
+
+<img width="695" height="104" alt="image" src="https://github.com/user-attachments/assets/da7c070a-a84c-469b-9117-bfa78ace70b6" />
+
+2×5=10 simple events.
+
+## CH04.02_Q21
+<img width="388" height="112" alt="image" src="https://github.com/user-attachments/assets/eb711abb-8a6d-4667-8b68-e89bf0cb827c" />
+
+there are 5×4=20 simple events
+
+S={
+(R,Br),(R,Y),(R,Bl),(R,O),
+(Br,R),(Br,Y),(Br,Bl),(Br,O),
+(Y,R),(Y,Br),(Y,Bl),(Y,O),
+(Bl,R),(Bl,Br),(Bl,Y),(Bl,O),
+(O,R),(O,Br),(O,Y),(O,Bl)
+}.
+
+​
+Each simple event has probability 1/20 (all equally likely).
+
+“You get orange and your friend does not get red.”  Favorable outcomes:(O,Br),(O,Y),(O,Bl) → 3outcomes.
+
+$P=\frac{3}{20}=0.15$
+
+## CH04.02_Q29	
+
+### a.
+
+<img width="491" height="274" alt="image" src="https://github.com/user-attachments/assets/1a514a3e-d90d-47aa-ba6a-f89e2c2b65cd" />
+
+Number of simple events = 4.
+
+### b.
+$P(M,P)=\frac{8}{25}=0.32$
+
+$P(M,N)=\frac{6}{25}=0.24$
+
+$P(F,P)=\frac{9}{25}=0.36$
+
+$P(F,N)=\frac{2}{25}=0.08$
+
+### c.
+P(M)=P(M,P)+P(M,N)=0.56.
+### d.
+$P(F,N)=0.08$
