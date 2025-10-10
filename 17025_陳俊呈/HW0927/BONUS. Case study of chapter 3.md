@@ -11,9 +11,15 @@
 ### Cycle time:<br>
 <img width="821" height="490" alt="image" src="https://github.com/user-attachments/assets/44a54bdc-066b-4ad2-af98-9e67000848cd" /><br>
 ## 2.<br>
+### Fig. 1:
+<img width="1140" height="731" alt="image" src="https://github.com/user-attachments/assets/ce17a60a-95c6-49eb-9ac3-a3cace8dc4b4" /><br>
+Price(y) and Score(y) are positive related to all of the variables(x1, ..., x8)<br>
+Energy(x2) and Water(x3) exhibit little correlation to Price(y) because their values of $r$ are less than 0.3, which may infer counterintuitive to Price(y).<br>
+
+
 ## 3.<br>
-Generally, the price of the washing machine conveys a positive linear about its quality, although the correlation
+To refer to the Fig.1, the price of the washing machine conveys a positive linear about its quality, although the correlation
 coefficient($r$) is less than 0.5. <br>
 The most effective variable is Capacity(x7), and the least effective variable is Cycle Time(x8).<br>
-<img width="1140" height="731" alt="image" src="https://github.com/user-attachments/assets/ce17a60a-95c6-49eb-9ac3-a3cace8dc4b4" /><br>
+
 
