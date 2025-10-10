@@ -51,3 +51,6 @@ LG Signature 的 120 分鐘（1 個機型）是最高的，可能是一個高位
 
 ---
 **問題 3：家電價格是否能體現其品質？**
+
+<img width="582" height="582" alt="image" src="https://github.com/user-attachments/assets/3223146e-7bbf-4cd3-bfa5-939e0fb73818" />
+
