@@ -6,6 +6,18 @@
 
 ### 1. Look at the variables Price, Score, and Cycle Time individually. What can you say about symmetry? About outliers?
 
+#### Price右偏有離群值
+
+<img width="1598" height="726" alt="image" src="https://github.com/user-attachments/assets/35cef607-5322-46f9-ab1a-097bde193fc3" />
+
+#### Score左偏有離群值
+
+<img width="1463" height="637" alt="image" src="https://github.com/user-attachments/assets/b9ed568c-5bde-4a56-84e1-e9ab35ded6c1" />
+
+#### Cycle Time左偏沒有離群值
+
+<img width="1385" height="830" alt="image" src="https://github.com/user-attachments/assets/400914c7-ddcc-4309-8dac-488cf1497b64" />
+
 
 ### 2.Look at all the variables in pairs. Which pairs are positively correlated? Negatively correlated? Are there any pairs that exhibit little or no correlation? Are some of these results counterintuitive?
 
