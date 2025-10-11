@@ -92,5 +92,13 @@ in repented sampling,about 50% bosention is H → 解釋"機率"得正確解釋�
 
 機率本質是動態的，所以例如丟硬幣出現正反，其正確解釋機率方式為：如果可以無限抽樣(simple event)，發生正面的機率達50%
 
+---
+---
+---
 
+**1011 cold calls**
+
+第1章到第3章要能理解"data"，如何measure(例如mean、標準差...),或畫一些圖graph(histogram、pie chart...),
+
+用動態靜態的觀點看機率→從1~3章之後，開始理解probability，用兩種方式理解 (1)dynamically observaton動態的觀察，以及(2)staticly observaton靜態觀察，觀察這個機率是甚麼，例如你用histogram是靜態某個時間點看觀點
 
