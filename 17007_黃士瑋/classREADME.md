@@ -123,7 +123,7 @@ KEY IDEAS
 ○ The calculation of mean, variance, standard deviation. 平均數、變異數、標準差的計算
 
 
-第五張談，第5.2章 BERNOULLI TRAIL，白努力實驗，只有 成功S 跟 失敗D 兩種結果，只是把實驗結果改成成功、失敗兩種，白努力實驗，是把 x 給他出現次數，以編號來定苗，然後P(x)抓編號出現次數的機率，描述隨機變數的資料binomail的random varible叫做參數(母數)parameter，binomial(n,p)每次的成功機率的是，給定一個成功事件的機率，可以直接代公式，但是老師有指導一張對照表，可以用 n p 對照k算出來，要小心，對照表是累計參數!!
+第五章是談離散的，第5.2章 BERNOULLI TRAIL，白努力實驗，只有 成功S 跟 失敗D 兩種結果，只是把實驗結果改成成功、失敗兩種，白努力實驗，是把 x 給他出現次數，以編號來定苗，然後P(x)抓編號出現次數的機率，描述隨機變數的資料binomail的random varible叫做參數(母數)parameter，binomial(n,p)每次的成功機率的是，給定一個成功事件的機率，可以直接代公式，但是老師有指導一張對照表，可以用 n p 對照k算出來，要小心，對照表是累計參數!!
 
 <img width="682" height="202" alt="image" src="https://github.com/user-attachments/assets/2e72fd02-ba1f-46fa-986f-8b0899338024" />
 
