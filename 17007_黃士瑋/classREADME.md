@@ -102,3 +102,27 @@ in repented sampling,about 50% bosention is H → 解釋"機率"得正確解釋�
 
 用動態靜態的觀點看機率→從1~3章之後，開始理解probability，用兩種方式理解 (1)dynamically observaton動態的觀察，以及(2)staticly observaton靜態觀察，觀察這個機率是甚麼，例如你用histogram是靜態某個時間點看觀點
 
+boxplot一維(前3章)要會計算畫圖，但是如果是二維(XY)則不會考試
+
+---
+---
+---
+
+**10/11講第5-1、5-2、6-1、6-3**
+
+random varible 隨機變數，任一個實驗記錄他的varible，每個varible給他一個measurement，然後用圖形畫他，而這個第5章節是從機率方式解釋random varible方式解釋varible
+
+KEY IDEAS
+○ Random variable 隨機變數
+○ Discrete random variables 離散型隨機變數
+○ Probability distribution 機率分配／機率分佈
+○ The calculation of mean, variance, standard deviation. 平均數、變異數、標準差的計算
+
+第5.2章 BERNOULLI TRAIL，白努力實驗，只有 成功S 跟 失敗D 兩種結果
+
+<img width="682" height="202" alt="image" src="https://github.com/user-attachments/assets/2e72fd02-ba1f-46fa-986f-8b0899338024" />
+
+只是把實驗結果改成成功、失敗兩種
+
+白努力實驗，是把 x 給他出現次數，以編號來定苗，然後P(x)抓編號出現次數的機率
+
