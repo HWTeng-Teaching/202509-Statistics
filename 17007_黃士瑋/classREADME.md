@@ -137,12 +137,19 @@ KEY IDEAS
 
 標準差可以做為股市判斷的依據方式
 
-**第6章開始**
-
-
 做Z轉換，如果沒有介於 -3~3，就是表示 outlier
 
 <img width="606" height="494" alt="image" src="https://github.com/user-attachments/assets/ea3234fe-b1cc-47c0-8735-42b134a2dc9a" />
+
+**第6章開始**
+
+probability distribution   probability density function(pdf) 機率密度函數
+
+定義：連續隨機變數，黃色面積代表機率的出現的機會
+
+<img width="738" height="316" alt="image" src="https://github.com/user-attachments/assets/a729b822-94d8-4ee2-bab3-d5f8fa9e1d06" />
+
+連續隨機變數的定義，就是算出 (質方圖+曲線圖)→曲線底下質方圖區域的面積，連續的目標就是為了計算方便
 
 
 
