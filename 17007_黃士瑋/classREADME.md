@@ -118,11 +118,23 @@ KEY IDEAS
 ○ Probability distribution 機率分配／機率分佈
 ○ The calculation of mean, variance, standard deviation. 平均數、變異數、標準差的計算
 
-第5.2章 BERNOULLI TRAIL，白努力實驗，只有 成功S 跟 失敗D 兩種結果
+第五張談，第5.2章 BERNOULLI TRAIL，白努力實驗，只有 成功S 跟 失敗D 兩種結果，只是把實驗結果改成成功、失敗兩種，白努力實驗，是把 x 給他出現次數，以編號來定苗，然後P(x)抓編號出現次數的機率，描述隨機變數的資料binomail的random varible叫做參數(母數)parameter，binomial(n,p)每次的成功機率的是
 
 <img width="682" height="202" alt="image" src="https://github.com/user-attachments/assets/2e72fd02-ba1f-46fa-986f-8b0899338024" />
 
-只是把實驗結果改成成功、失敗兩種
+統計學課程會用到這兩張表!!
 
-白努力實驗，是把 x 給他出現次數，以編號來定苗，然後P(x)抓編號出現次數的機率
+<img width="738" height="548" alt="image" src="https://github.com/user-attachments/assets/9c04790c-ad2c-4645-a49b-df126bae505a" />
+
+<img width="1156" height="816" alt="image" src="https://github.com/user-attachments/assets/3b5fab44-d000-4925-b6df-6343282be662" />
+
+<img width="774" height="346" alt="image" src="https://github.com/user-attachments/assets/f728751f-cb80-47dc-bcb8-1ce8f1abe597" />
+
+標準差可以做為股市判斷的依據方式
+
+做Z轉換，如果沒有介於 -3~3，就是表示 outlier
+
+<img width="606" height="494" alt="image" src="https://github.com/user-attachments/assets/ea3234fe-b1cc-47c0-8735-42b134a2dc9a" />
+
+
 
