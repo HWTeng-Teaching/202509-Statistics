@@ -5,6 +5,7 @@ Updated info can be seen in [Google Sheet](https://docs.google.com/spreadsheets/
 ## In-Clss Exercise
 - [IC0913](https://forms.gle/DsTkE7f9zfFEgmzN7)
 - [IC0927](https://forms.gle/WARKfvLDC447MQv17)
+- [IC1011](https://forms.gle/WLodoBzcbF3R5hrX7)
   
 
 ## Name list
