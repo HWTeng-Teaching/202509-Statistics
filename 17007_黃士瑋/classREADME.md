@@ -159,3 +159,5 @@ normal probability distribution 就是為了計算方便 產生的
 
 指數隨機變數 exponential probability distribution，可以拿來計算公司存續時間、保費與生命的關係時間
 
+高斯曲線的 大寫 Z = standard normal R.V
+
