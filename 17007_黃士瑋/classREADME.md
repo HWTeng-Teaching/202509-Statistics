@@ -113,10 +113,15 @@ boxplot一維(前3章)要會計算畫圖，但是如果是二維(XY)則不會考
 random varible 隨機變數，任一個實驗記錄他的varible，每個varible給他一個measurement，然後用圖形畫他，而這個第5章節是從機率方式解釋random varible方式解釋varible
 
 KEY IDEAS
+
 ○ Random variable 隨機變數
+
 ○ Discrete random variables 離散型隨機變數
+
 ○ Probability distribution 機率分配／機率分佈
+
 ○ The calculation of mean, variance, standard deviation. 平均數、變異數、標準差的計算
+
 
 第五張談，第5.2章 BERNOULLI TRAIL，白努力實驗，只有 成功S 跟 失敗D 兩種結果，只是把實驗結果改成成功、失敗兩種，白努力實驗，是把 x 給他出現次數，以編號來定苗，然後P(x)抓編號出現次數的機率，描述隨機變數的資料binomail的random varible叫做參數(母數)parameter，binomial(n,p)每次的成功機率的是，給定一個成功事件的機率，可以直接代公式，但是老師有指導一張對照表，可以用 n p 對照k算出來，要小心，對照表是累計參數!!
 
@@ -131,6 +136,9 @@ KEY IDEAS
 <img width="774" height="346" alt="image" src="https://github.com/user-attachments/assets/f728751f-cb80-47dc-bcb8-1ce8f1abe597" />
 
 標準差可以做為股市判斷的依據方式
+
+**第6章開始**
+
 
 做Z轉換，如果沒有介於 -3~3，就是表示 outlier
 
