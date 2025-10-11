@@ -151,5 +151,11 @@ probability distribution   probability density function(pdf) 機率密度函數
 
 連續隨機變數的定義，就是算出 (質方圖+曲線圖)→曲線底下質方圖區域的面積，連續的目標就是為了計算方便
 
+normal probability distribution 就是為了計算方便 產生的
 
+連續隨機變數 continuous probability→高斯分布曲線→老師希望能看公式劃出曲線，normal分布是對稱的
+
+<img width="354" height="226" alt="image" src="https://github.com/user-attachments/assets/b9c856cd-5de8-476b-ab81-64cd411c3869" />
+
+指數隨機變數 exponential probability distribution，可以拿來計算公司存續時間、保費與生命的關係時間
 
