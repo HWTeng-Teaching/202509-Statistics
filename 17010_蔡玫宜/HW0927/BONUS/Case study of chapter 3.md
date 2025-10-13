@@ -70,9 +70,11 @@ score 為x1 到 X6 加總結果，所以為正相關為合理。
 
 # Special issue
 
-經由第一題尋找離群值中發現，由price變數中，出現 no.47的資料(2450)為離群值，由score變數中，出現no.4的資料(33)惟離群值，若將離群值剃除相關係數表如以下：
+經由第一題尋找離群值中發現，由price變數中，出現 no.47的資料(2450)為離群值，由score變數中，出現no.02~09 的資料為離群值，若將離群值剃除相關係數表如以下：
 
-<img width="1326" height="557" alt="Image" src="https://github.com/user-attachments/assets/ab29b083-ac11-4845-a855-e62399233624" />
+<img width="1322" height="549" alt="image" src="https://github.com/user-attachments/assets/fdfee6b1-9829-427b-8807-4b8e84b464a9" />
+
+
 
 此表與第一張表格之差異，價格對於洗衣時間，由負相關轉成低度相關，其他變化不大。對於結論影響不高。
 
