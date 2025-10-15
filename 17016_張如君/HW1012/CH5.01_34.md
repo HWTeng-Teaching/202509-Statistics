@@ -2,6 +2,7 @@ Question
 
 <img width="617" height="521" alt="image" src="https://github.com/user-attachments/assets/c977b786-cdf5-4176-b285-4aad987ab619" />
 
+
 a. Find the expected number of years of patent life for a new drug.
 b. Find the standard deviation of x.
 
