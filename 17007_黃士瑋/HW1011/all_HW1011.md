@@ -64,8 +64,25 @@ homework 1011
 
 <img width="564" height="268" alt="image" src="https://github.com/user-attachments/assets/6ceda45f-a716-40c6-9ffa-f1388b638b08" />
 
+**a. Find the upper and lower quartiles for the gestation times.**
 
+Q1=0.25 ( Z = -0.67 )
 
+Z = (x-μ)/σ = (x-278)/12 =-0.67
+
+Q1_x=269.96
+
+Q3=0.75 ( Z = 0.67 )
+
+Z = (x-μ)/σ = (x-278)/12 =0.67
+
+Q3_x=286.04
+
+**b. Would it be unusual to deliver a baby after only 6 months of gestation? Explain.**
+
+6M=180days
+
+Z = (x-μ)/σ = (180-278)/12 =-8.2 不尋常
 
 ---
 ---
@@ -75,11 +92,48 @@ homework 1011
 
 <img width="598" height="608" alt="CH6 03_17" src="https://github.com/user-attachments/assets/9c4e69fd-4265-4c29-9efa-f4902d8d5b00" />
 
+Find the approximate probability that 60 or more Americans would indicate that the average person is not very considerate of others when talking on a cell phone.
+結果為認為不禮貌(p=0.51)/認為沒有不禮貌(q=0.49)
+
+利用常態分配逼近Binomial分配 (n=100,p=0.51)
+
+μ=np=100*0.51=51
+
+σ^2=npq=51*0.49=24.99
+
+σ=5
+
+x>=60的Z值為=(59.5(連續校正)-51)/5=1.7
+
+Z=1.7的機率查表為 0.9554
+
+p=(X>=60) = 1 - p(x<60) = 1 - 0.9554 = 0.0446
+
 ---
 ---
 ---
 
 **第8題：CH6.03_20**
+
+a. If the 50,000 children were a random sample from the population of children represented by past records, what is the probability of observing a value of x equal to 60 or more?
+b. Would you say that the observation of x=60 children with genetic defects represents a rare event?
+基因缺陷(p=1/1000=0.001)/基因沒有缺陷(q=0.999)
+
+利用常態分配逼近Binomial分配 (n=50,000,p=0.001)
+
+μ=np=50,000*0.001=50
+
+σ^2=npq=50*0.999=49.95
+
+σ=7.07
+
+x>=60的Z值為=(59.5(連續校正)-50)/7.07=1.34
+
+Z=1.34的機率查表為 0.9099
+
+p=(X>=60) = 1 - p(x<60) = 1 - 0.9099 = 0.0901
+
+雖然機率低但仍在合理機率範圍內，不足以說明有異常。
 
 <img width="596" height="318" alt="CH6 03_20" src="https://github.com/user-attachments/assets/9f8ce254-4584-4d49-a8df-048d0a79bb87" />
 
