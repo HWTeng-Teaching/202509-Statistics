@@ -22,6 +22,8 @@ homework 1011
 
 <img width="628" height="452" alt="CH5 01_34" src="https://github.com/user-attachments/assets/662d320d-b4d4-4273-88dc-869fa47651f8" />
 
+<img width="1524" height="690" alt="image" src="https://github.com/user-attachments/assets/c84e5d6c-1e97-4b3a-aeff-26f0659ea166" />
+
 ---
 ---
 ---
@@ -29,6 +31,8 @@ homework 1011
 **第3題：CH5.02_44**
 
 <img width="618" height="346" alt="CH5 02_44" src="https://github.com/user-attachments/assets/a2463bc9-b9f7-41c3-a2e3-0468a09b9c45" />
+
+<img width="1158" height="904" alt="image" src="https://github.com/user-attachments/assets/067ad033-51aa-418b-90ce-4ea74cd13ab3" />
 
 ---
 ---
