@@ -62,7 +62,10 @@ homework 1011
 
 **第6題：CH6.02_59**
 
-<img width="990" height="793" alt="image" src="https://github.com/user-attachments/assets/ee20b8d1-91f7-4832-8c0a-d6639a9b717c" />
+<img width="564" height="268" alt="image" src="https://github.com/user-attachments/assets/6ceda45f-a716-40c6-9ffa-f1388b638b08" />
+
+
+
 
 ---
 ---
