@@ -2,10 +2,6 @@ homework 1011
 
 <img width="620" height="852" alt="螢幕擷取畫面 2025-10-15 194159" src="https://github.com/user-attachments/assets/a49bc8ec-fac7-4e10-aa05-b1af746490ca" />
 
-<img width="1078" height="300" alt="image" src="https://github.com/user-attachments/assets/9d9b2f42-6165-45b5-8548-ca7488aa8927" />
-
-<img width="948" height="504" alt="image" src="https://github.com/user-attachments/assets/ff0934f8-8a70-4393-9b06-fa47cbacf610" />
-
 ---
 ---
 ---
@@ -13,6 +9,10 @@ homework 1011
 **第1題：CH5.01_28**
 
 <img width="554" height="544" alt="CH5 01_28" src="https://github.com/user-attachments/assets/b02d6e01-be31-4428-b583-4856e46d3d7e" />
+
+<img width="1078" height="300" alt="image" src="https://github.com/user-attachments/assets/9d9b2f42-6165-45b5-8548-ca7488aa8927" />
+
+<img width="948" height="504" alt="image" src="https://github.com/user-attachments/assets/ff0934f8-8a70-4393-9b06-fa47cbacf610" />
 
 ---
 ---
