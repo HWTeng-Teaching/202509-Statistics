@@ -115,6 +115,8 @@ p=(X>=60) = 1 - p(x<60) = 1 - 0.9554 = 0.0446
 
 **第8題：CH6.03_20**
 
+<img width="596" height="318" alt="CH6 03_20" src="https://github.com/user-attachments/assets/9f8ce254-4584-4d49-a8df-048d0a79bb87" />
+
 a. If the 50,000 children were a random sample from the population of children represented by past records, what is the probability of observing a value of x equal to 60 or more?
 b. Would you say that the observation of x=60 children with genetic defects represents a rare event?
 基因缺陷(p=1/1000=0.001)/基因沒有缺陷(q=0.999)
@@ -135,7 +137,7 @@ p=(X>=60) = 1 - p(x<60) = 1 - 0.9099 = 0.0901
 
 雖然機率低但仍在合理機率範圍內，不足以說明有異常。
 
-<img width="596" height="318" alt="CH6 03_20" src="https://github.com/user-attachments/assets/9f8ce254-4584-4d49-a8df-048d0a79bb87" />
+
 
 
 
