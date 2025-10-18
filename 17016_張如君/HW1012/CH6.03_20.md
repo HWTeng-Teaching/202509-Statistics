@@ -1,4 +1,5 @@
 Question
+
 <img width="256" height="149" alt="image" src="https://github.com/user-attachments/assets/9b337b1a-53cd-4772-b4bc-58af87b884f7" />
 
 a. If the 50,000 children were a random sample from the population of children represented by past records, what is the probability of observing a value of x equal to 60 or more?
