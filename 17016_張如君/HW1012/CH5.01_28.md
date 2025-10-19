@@ -1,4 +1,5 @@
 Question
+
 <img width="572" height="635" alt="image" src="https://github.com/user-attachments/assets/3faa76af-9775-4716-bde6-18e3cd96d65d" />
 
 (a) a. List the simple events in S and assign probabilities to the simple events
