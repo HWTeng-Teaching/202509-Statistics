@@ -10,7 +10,7 @@ a. If the 50,000 children were a random sample from the population of children r
 
 np = 50000* (1/1000) = 50
 
-Z = ((60-0.5))/ 7.0711 = 1.3435
+Z = ((60-0.5))/ 7.0711 = 1.344
 
 P(Z< 1.344)=0.9099 
 
