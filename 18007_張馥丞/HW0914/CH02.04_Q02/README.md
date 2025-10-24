@@ -9,9 +9,9 @@
 2.計算 Q3 - Q1 得出四分位距(IQR)。
 3.找出數據中大於 Q3 +1.5IQR 或 小於Q1 -1.5IQR的數據， 即為離群值。
 
-<img width="452" height="154" alt="image" src="https://github.com/user-attachments/assets/aca0bf4d-97ee-46b3-9b59-7b422104af74" />
 
 
 
+<img width="502" height="161" alt="image" src="https://github.com/user-attachments/assets/2043821a-5eb6-4c41-8adb-22f469d001e6" />
 
 沒有outliers, 因數據中沒有大於9.6或小於-2.5的數值.
