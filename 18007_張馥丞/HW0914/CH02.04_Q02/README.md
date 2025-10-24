@@ -12,6 +12,7 @@
 
 
 
-<img width="502" height="161" alt="image" src="https://github.com/user-attachments/assets/2043821a-5eb6-4c41-8adb-22f469d001e6" />
+<img width="511" height="155" alt="image" src="https://github.com/user-attachments/assets/ac75050d-9b60-4fea-9605-79b2ffd4f482" />
+
 
 沒有outliers, 因數據中沒有大於9.6或小於-2.5的數值.
