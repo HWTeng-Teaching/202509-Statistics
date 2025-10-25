@@ -14,4 +14,5 @@ c. Calculate the values of p(x) and display them in a table.
 
 d. Construct a probability histogram for p(x).
 
-<img width="665" height="515" alt="image" src="https://github.com/user-attachments/assets/52eb033f-4c38-495e-a4b4-3bbff5cd4099" />
+<img width="665" height="515" alt="image" src="https://github.com/user-attachments/assets/c4fe28ec-53e0-431f-aa9c-c43036b5f392" />
+
