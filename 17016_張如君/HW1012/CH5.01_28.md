@@ -2,8 +2,14 @@ Question
 
 <img width="572" height="635" alt="image" src="https://github.com/user-attachments/assets/3faa76af-9775-4716-bde6-18e3cd96d65d" />
 
-(a) a. List the simple events in S and assign probabilities to the simple events
-<img width="414" height="1125" alt="image" src="https://github.com/user-attachments/assets/3a714ba0-2de1-4d28-8bd6-e39be6cb840b" />
+(a) a. List the simple events in S and assign probabilities to the simple events 
+X	simple event	p(x)
+<img width="512" height="1125" alt="image" src="https://github.com/user-attachments/assets/a2ce9a3b-c5ab-4b52-9749-a5f067b2bd93" />
+
+
+
+
+
 
 b. Let x equal the number of keys that you try before you find the one that opens the door (1, 2, 3, 4). Then assign the appropriate value of x to each simple event.
 
