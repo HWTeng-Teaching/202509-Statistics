@@ -9,4 +9,4 @@ b. What is the probability that between 4 and 6 (inclusive) preferred McDonald�
 P(4≦X≦6)=0.828-0.172=0.656,  P(3)=0.172
 
 c. What is the probability that between 4 and 6 (inclusive) preferred Burger King?
-P(4≦X≦6)=0.828-0.172=0.656
+P(4≦y≦6)=0.828-0.172=0.656
