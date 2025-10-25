@@ -6,11 +6,6 @@ Question
 X	simple event	p(x)
 <img width="512" height="1125" alt="image" src="https://github.com/user-attachments/assets/a2ce9a3b-c5ab-4b52-9749-a5f067b2bd93" />
 
-
-
-
-
-
 b. Let x equal the number of keys that you try before you find the one that opens the door (1, 2, 3, 4). Then assign the appropriate value of x to each simple event.
 
 Ans: 4*6=24
