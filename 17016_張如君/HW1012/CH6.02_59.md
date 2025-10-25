@@ -4,7 +4,7 @@ Qusetion
 
 a. Find the upper and lower quartiles for the gestation times.
 
-Q1=0.25 --> Z=-0.67
+Q1=0.25 --> Z=-0.67 (用表上機率回推對應的Z值)
 
 Z=(X-278)/12=-0.67，X=269.96
 
