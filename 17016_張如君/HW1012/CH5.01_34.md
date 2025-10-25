@@ -15,5 +15,7 @@ c. Find the probability that x falls into the interval μ±2σ
   ==> μ ± 2σ = 7.9 ± (2*2.175 )
              = 3.55~12.25years
 
+  𝑃(4≤𝑋≤12)=0.05+0.07+0.10+0.14+0.20+0.18+0.12+0.07+0.03=0.96
+
 
 
