@@ -40,6 +40,8 @@ CH07.03_23
 
 <img width="650" height="290" alt="7 03 23" src="https://github.com/user-attachments/assets/98ea2d66-859d-4087-a787-b783f8fd9efa" />
 
+<img width="692" height="688" alt="image" src="https://github.com/user-attachments/assets/05741509-fb29-4dcf-8294-a2f04def4492" />
+
 -------------------------------------
 
 CH07.05_28
