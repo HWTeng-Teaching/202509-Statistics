@@ -48,6 +48,10 @@ CH07.05_28
 
 <img width="594" height="202" alt="7 05 28" src="https://github.com/user-attachments/assets/f19cf0ac-beac-40ee-a1fa-9090f737eadb" />
 
+<img width="469" height="106" alt="image" src="https://github.com/user-attachments/assets/3a21c5b1-d303-4f6c-bfd6-c26d2cde6fd0" />
+
+<img width="1054" height="492" alt="image" src="https://github.com/user-attachments/assets/8d2785ba-4f7b-4877-9c1d-70640f25f3f0" />
+
 -------------------------------------
 
 CH07.05_31
