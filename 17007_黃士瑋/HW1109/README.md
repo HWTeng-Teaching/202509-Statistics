@@ -30,6 +30,10 @@ CH07.03_15
 
 <img width="648" height="104" alt="7 03 15" src="https://github.com/user-attachments/assets/02f09fe2-ba1d-4134-a9c9-b5729d5309b6" />
 
+N=49 有 母體有49個抽樣樣本，題目已經告知，母體的平均數 μ=53，所以 sample mean = 53
+
+而，母體標準差(Standard error)則要 帶入公式計算：母體標準差(Standard error) 除以開根號n，σ=21/$\開根號n→ 21/開根號49 = 3
+
 -------------------------------------
 
 CH07.03_23
