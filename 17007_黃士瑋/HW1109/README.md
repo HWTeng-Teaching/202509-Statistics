@@ -104,11 +104,15 @@ CH08.02_26
 
 <img width="626" height="300" alt="8 02 26" src="https://github.com/user-attachments/assets/b1e66e14-42fc-4f65-b2fb-887b16c9514d" />
 
+<img width="1110" height="288" alt="image" src="https://github.com/user-attachments/assets/4aaf78c7-6b3d-4cba-8f3f-8dfa50c11481" />
+
 -------------------------------------
 
 CH08.03.17
 
 <img width="616" height="356" alt="8 03 17" src="https://github.com/user-attachments/assets/777cbf9d-06fb-4e98-98b2-72a9665c1061" />
+
+<img width="1264" height="436" alt="image" src="https://github.com/user-attachments/assets/d3b4ff66-42e1-463e-9ae0-aba79d3dafd6" />
 
 -------------------------------------
 
