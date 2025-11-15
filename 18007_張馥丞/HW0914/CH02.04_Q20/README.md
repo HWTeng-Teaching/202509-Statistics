@@ -14,9 +14,10 @@
 <img width="467" height="298" alt="image" src="https://github.com/user-attachments/assets/5b5b8544-cd98-4c02-8087-18cbbdccb31b" />
 
 
-<img width="455" height="117" alt="image" src="https://github.com/user-attachments/assets/f274de04-ea7b-45eb-a3c9-6ef810cdafd4" />
+<img width="443" height="125" alt="image" src="https://github.com/user-attachments/assets/3e7d2347-87bd-4c2d-ad44-0586f96979e2" />
 
-沒有outliers, 因數據中沒有大於598或小於-150的數值.
+
+沒有outliers, 因數據中沒有大於558或小於-86的數值.
 
 d. 年齡資訊是否有助於解釋前四筆異常值？
 其中 1.70 μg/g 顯著低於其他值。
