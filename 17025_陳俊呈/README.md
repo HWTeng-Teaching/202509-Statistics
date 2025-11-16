@@ -2,7 +2,7 @@
 
 |English name|Chris Chen|
 |----|----|
-|Company|Memory-related IDM in HSP|
-|Occupation|Product marketing|
+|Company|The kitchen and bath business related in Taichung|
+|Occupation|Business planning related|
 |Interest about Finance|Financial analysis for business strategy, M&A.|
 |Interest except Fiance|Swimming, Hiking.|
