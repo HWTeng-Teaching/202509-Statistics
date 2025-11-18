@@ -38,6 +38,7 @@
 <img width="622" height="298" alt="image" src="https://github.com/user-attachments/assets/efdd9e99-abe9-4f08-a576-24d6491218cb" />
 
 ## Q10_CH08.03_17
+<img width="667" height="158" alt="image" src="https://github.com/user-attachments/assets/c0a378e8-5acd-4996-ae4a-ec255ae8fe54" />
 <img width="654" height="115" alt="image" src="https://github.com/user-attachments/assets/6526e60e-418c-44aa-8a19-da01b9049f5e" />
 
 ## Q11_CH08.03_24
