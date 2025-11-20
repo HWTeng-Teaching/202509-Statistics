@@ -17,7 +17,10 @@ Population III（母體：10, 15, 21, 22；N=4，抽樣大小 n=2）
 <img width="356" height="200" alt="image" src="https://github.com/user-attachments/assets/1c6217df-33e5-4642-a1f2-80d88118abb4" />
 
 
-(3)x bar 的抽樣分配（Sampling Distribution）
+
+
+(3) X bar的抽樣分配
+
 
 所有 6 個樣本皆等機率 → 每個樣本機率 = 1/6
 
