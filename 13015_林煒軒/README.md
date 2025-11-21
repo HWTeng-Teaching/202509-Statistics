@@ -6,7 +6,6 @@ Hi! I'm Chuck!
 - ✏️ [Homework](#%EF%B8%8F-homework)
 - 🧠 [In-Class Exercise](#-in-class-exercise)
 - 🛠️ [Tools](#%EF%B8%8F-tools)
-- 📦 [Python Packages](#-python-packages)
 
 # 📚 Materials
 - [20250913 STAT README](https://docs.google.com/spreadsheets/d/1-UFyabcTQTQ9ZaXoXk9rYrOnwDxJEAOYwu1l0E4ezAQ/edit?usp=sharing)
@@ -17,17 +16,11 @@ Hi! I'm Chuck!
 - [HW0913](./HW0913/README.md)
 - [HW0927](./HW0927/README.md)
 - [HW1011](./HW1011/README.md)
+- [HW1109](./HW1109/README.md)
 
 # 🧠 In-Class Exercise
 - [0913 in-class exercise](https://colab.research.google.com/drive/11bHlxmhZ0DXfqTn8fhpE8vlVmp03GyjU?usp=drive_link) (quantiles)
 
 # 🛠️ Tools
 - [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
-
-# 📦 Python Packages
-
-## 📊 Stats
-- [numpy](https://numpy.org/doc/stable/)
-- [statsmodels](https://www.statsmodels.org/stable/index.html#)
-
 
