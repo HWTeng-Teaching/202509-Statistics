@@ -21,6 +21,8 @@ c.樣本平均 小於 900。
 
 樣本平均的標準誤 (Standard Error, SE)
 
+<img width="86" height="61" alt="image" src="https://github.com/user-attachments/assets/f52fa55c-5a88-4de2-8dfb-57e76df19bb8" />
+
 
 SE=80/20=4
 
