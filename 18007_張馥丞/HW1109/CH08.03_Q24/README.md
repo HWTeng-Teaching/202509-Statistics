@@ -22,7 +22,7 @@ b. 計算 99% 信賴區間（身長）
 
 公式：<img width="109" height="53" alt="image" src="https://github.com/user-attachments/assets/e3142d3d-79b1-44dd-bd5e-8c5a9bbbf801" />
 
-其中 Z=2.576Z = 2.576（對應 99% 信心水準）
+其中 Z=2.576（對應 99% 信心水準）
 
 代入數值：CI=67.3 ± 2.576⋅0.64/√50=67.3 ± 2.576⋅0.0905 ≈ 67.3 ± 0.233
 
