@@ -28,6 +28,8 @@ CH09.04_7
 
 <img width="489" height="760" alt="image" src="https://github.com/user-attachments/assets/68b23bfb-2c61-4179-8158-8a5314fb00bb" />
 
+<img width="1654" height="800" alt="image" src="https://github.com/user-attachments/assets/c4bf48fc-4d48-487e-b64e-56ea6bb1a853" />
+
 -------
 
 CH09.04_9
