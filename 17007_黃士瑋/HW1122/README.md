@@ -52,6 +52,8 @@ CH10.02_22
 
 <img width="640" height="336" alt="image" src="https://github.com/user-attachments/assets/9c3d5230-f8e4-48a4-aa2c-84e471a63c65" />
 
+<img width="1420" height="692" alt="image" src="https://github.com/user-attachments/assets/7be9fdbe-d40b-4785-bbdb-5f604a53f32e" />
+
 --------
 
 CH10.02_30
