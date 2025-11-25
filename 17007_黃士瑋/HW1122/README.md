@@ -44,6 +44,8 @@ CH10.01_1
 
 <img width="632" height="464" alt="image" src="https://github.com/user-attachments/assets/79ebc5c7-b8b4-4a5b-b6a9-06553686c6e3" />
 
+樣本必須是「從母體中隨機抽出」且獨立的。抽樣的母體要服從常態分布，如果 n 很大時可以使用中央極限定理來做常態分佈。
+
 --------
 
 CH10.02_22
