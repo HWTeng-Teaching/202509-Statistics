@@ -66,6 +66,8 @@ CH10.05_7
 
 <img width="664" height="234" alt="image" src="https://github.com/user-attachments/assets/2bc0de24-b0dd-4b3d-b387-48cde2686087" />
 
+<img width="980" height="508" alt="image" src="https://github.com/user-attachments/assets/4fd3f9c3-b3fe-4666-ad0c-25bfc3a3d774" />
+
 ---------
 
 CH10.05_9
