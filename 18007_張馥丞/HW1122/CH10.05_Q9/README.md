@@ -16,7 +16,8 @@
 
 樣本變異數（無偏）：
 
-<img width="508" height="363" alt="image" src="https://github.com/user-attachments/assets/a3eca2e4-b258-4715-bb55-b9ead24c7103" />
+<img width="492" height="332" alt="image" src="https://github.com/user-attachments/assets/25507f32-1fe3-4be9-9f90-2312fe7133c3" />
+
 
 代入：s2=1/(7-1)*4.1942857 ≈ 0.699048
 
