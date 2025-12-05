@@ -43,6 +43,9 @@ t = −2.71 < −1.685
 
 計算 p 值（使用 t 分布查表）
 
+<img width="547" height="326" alt="image" src="https://github.com/user-attachments/assets/5b4bd66d-55ef-4b3e-b02d-5b3ceaa995d4" />
+
+
 t=−2.71，自由度 39
 
 查表或使用軟體得：p ≈ 0.005
