@@ -1,4 +1,5 @@
 <img width="447" height="153" alt="image" src="https://github.com/user-attachments/assets/2539e11d-3f40-43ba-a07d-93f34861f410" />
+
 使用以下資料建立簡單線性迴歸的 ANOVA 表，並以 F 檢定與 t 檢定測試虛無假設 H₀: β = 0，顯著水準 α = 0.05。
 
 接著計算迴歸係數 b 及其標準誤，並驗證 t² = F 是否成立。
@@ -22,7 +23,7 @@ SSR=b⋅Sxy=2⋅8=16
 SSE=Syy−SSR=20−16=4
 
 
-4. ANOVA 表格
+3. ANOVA 表格
 
 <img width="438" height="103" alt="image" src="https://github.com/user-attachments/assets/9a1f3600-74e9-450f-8882-c1b03a2ad66f" />
 
