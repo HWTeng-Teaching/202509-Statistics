@@ -52,11 +52,21 @@ b. Find the least-squares line relating BMI to income.
 
 <img width="453" height="795" alt="image" src="https://github.com/user-attachments/assets/253eda73-f4f9-477f-a9c2-0f34a828b6d2" />
 
+<img width="990" height="1198" alt="image" src="https://github.com/user-attachments/assets/d376f1a2-1a37-4f44-b432-88cfe958a511" />
+
 --------
 
 <img width="509" height="308" alt="image" src="https://github.com/user-attachments/assets/68529cf7-0cf3-4f10-96b1-7826ae76e3a3" />
 
+<img width="984" height="1210" alt="image" src="https://github.com/user-attachments/assets/36a806f5-5b7a-4b64-858d-2d2cf03b62b4" />
+
 --------
 
 <img width="512" height="575" alt="image" src="https://github.com/user-attachments/assets/dffe499f-0beb-4225-94bb-3da70de3de2c" />
+
+<img width="1102" height="646" alt="image" src="https://github.com/user-attachments/assets/37321ca9-49c0-4979-8095-7449e9b4cadc" />
+
+<img width="990" height="738" alt="image" src="https://github.com/user-attachments/assets/bfa84691-7412-4672-98b9-c32c34e8cbce" />
+
+<img width="1010" height="788" alt="image" src="https://github.com/user-attachments/assets/a9167652-bddb-4025-8989-915bf0dd2667" />
 
