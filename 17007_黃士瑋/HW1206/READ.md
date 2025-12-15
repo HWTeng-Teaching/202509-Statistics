@@ -34,6 +34,20 @@
 
 <img width="537" height="314" alt="image" src="https://github.com/user-attachments/assets/7a9bb12c-19a0-4319-9339-f21123fabb28" />
 
+Answer:
+a. If the researcher thinks that BMI is a function of income, which of the two variables is the independent variable x and which is the dependent variable y?
+研究人員認為 BMI 是收入的函數
+數學函數 y=f(x) 中獨立變數:Income (收入)因變數:BMI(身體質量指數)
+
+b. Find the least-squares line relating BMI to income.
+
+<img width="525" height="318" alt="image" src="https://github.com/user-attachments/assets/7049e670-a2a0-4a39-9dc4-c5e232b7e4ed" />
+
+<img width="760" height="202" alt="image" src="https://github.com/user-attachments/assets/1b782d9e-c917-4de4-a38c-a3abfec06127" />
+
+<img width="894" height="664" alt="image" src="https://github.com/user-attachments/assets/342ed860-0f2a-4782-9600-00d92c2c2a4d" />
+
+
 --------
 
 <img width="453" height="795" alt="image" src="https://github.com/user-attachments/assets/253eda73-f4f9-477f-a9c2-0f34a828b6d2" />
