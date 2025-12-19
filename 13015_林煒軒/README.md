@@ -18,6 +18,7 @@ Hi! I'm Chuck!
 - [HW1011](./HW1011/README.md)
 - [HW1108](./HW1108/README.md)
 - [HW1122](./HW1122/README.md)
+- [HW1206](./HW1206/README.md)
 
 # 🧠 In-Class Exercise
 - [0913 in-class exercise](https://colab.research.google.com/drive/11bHlxmhZ0DXfqTn8fhpE8vlVmp03GyjU?usp=drive_link) (quantiles)
