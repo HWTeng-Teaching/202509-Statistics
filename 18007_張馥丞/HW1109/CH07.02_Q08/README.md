@@ -10,7 +10,8 @@
 
 樣本平均數 x bar 之抽樣分配
 
-<img width="425" height="268" alt="image" src="https://github.com/user-attachments/assets/6c400543-77c1-4c50-b7b8-823c7e41629d" />
+<img width="542" height="269" alt="image" src="https://github.com/user-attachments/assets/9f2fc023-6a28-4ecd-9f96-e24837005785" />
+
 
 （機率總和檢查：1+2+1+2+2+2+2+1+2+1=16，機率和為 1）
 
